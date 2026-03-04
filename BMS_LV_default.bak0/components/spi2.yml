@@ -1,0 +1,42 @@
+configVersion: 1.0.0
+componentName: spi2
+coreVersion: 5.8.4
+device: PIC32MX795F512L
+library: []
+dependency:
+- dependencyPackage: class com.microchip.mcc.harmony.HarmonyModule
+  name: spi2
+  type: module
+  version: ''
+- dependencyPackage: ''
+  name: csp
+  type: package
+  version: v3.25.1
+customDataClassName: com.microchip.utils_mh3.utils.persistence.CustomModuleData
+data:
+  attachments: {}
+  elementPosition:
+    attributes:
+      id: __ROOTVIEW
+    children:
+    - children:
+      - attributes:
+          id: spi2
+          x: '425'
+          y: '178'
+        type: ElementPosition
+      type: ElementPositions
+    type: ComponentGraph
+  symbols:
+    SPI_BRG_VALUE:
+      attributes:
+        id: SPI_BRG_VALUE
+      children:
+      - children:
+        - attributes:
+            id: spi2
+            value: '39'
+          type: Dynamic
+        type: Values
+      type: Integer
+  userData: {}
