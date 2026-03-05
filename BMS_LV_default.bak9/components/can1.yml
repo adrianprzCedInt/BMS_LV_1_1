@@ -1,0 +1,244 @@
+configVersion: 1.0.0
+componentName: can1
+coreVersion: 5.8.4
+device: PIC32MX795F512L
+library: []
+dependency:
+- dependencyPackage: class com.microchip.mcc.harmony.HarmonyModule
+  name: can1
+  type: module
+  version: ''
+- dependencyPackage: ''
+  name: csp
+  type: package
+  version: v3.25.1
+customDataClassName: com.microchip.utils_mh3.utils.persistence.CustomModuleData
+data:
+  attachments: {}
+  elementPosition:
+    attributes:
+      id: __ROOTVIEW
+    children:
+    - children:
+      - attributes:
+          id: can1
+          x: '262'
+          y: '180'
+        type: ElementPosition
+      type: ElementPositions
+    type: ComponentGraph
+  symbols:
+    CAN_INTERRUPT_MODE:
+      attributes:
+        id: CAN_INTERRUPT_MODE
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    BRP:
+      attributes:
+        id: BRP
+      children:
+      - children:
+        - attributes:
+            id: readOnly
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            id: can1
+            value: '3'
+          type: Dynamic
+        type: Values
+      type: Integer
+    NOMINAL_SAMPLE_POINT:
+      attributes:
+        id: NOMINAL_SAMPLE_POINT
+      children:
+      - children:
+        - attributes:
+            id: readOnly
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            id: can1
+            value: '85.0'
+          type: Dynamic
+        type: Values
+      type: Float
+    PROPAG_TIME:
+      attributes:
+        id: PROPAG_TIME
+      children:
+      - children:
+        - attributes:
+            id: readOnly
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            id: can1
+            value: '800'
+          type: Dynamic
+        type: Values
+      type: Integer
+    TOTAL_TIME_QUANTA:
+      attributes:
+        id: TOTAL_TIME_QUANTA
+      children:
+      - children:
+        - attributes:
+            id: can1
+            value: '20'
+          type: Dynamic
+        type: Values
+      type: Integer
+    PROPAG:
+      attributes:
+        id: PROPAG
+      children:
+      - children:
+        - attributes:
+            id: can1
+            value: '8'
+          type: Dynamic
+        type: Values
+      type: Integer
+    PHASE1:
+      attributes:
+        id: PHASE1
+      children:
+      - children:
+        - attributes:
+            id: can1
+            value: '8'
+          type: Dynamic
+        type: Values
+      type: Integer
+    PHASE2:
+      attributes:
+        id: PHASE2
+      children:
+      - children:
+        - attributes:
+            id: can1
+            value: '3'
+          type: Dynamic
+        type: Values
+      type: Integer
+    SJW:
+      attributes:
+        id: SJW
+      children:
+      - children:
+        - attributes:
+            id: can1
+            value: '3'
+          type: Dynamic
+        type: Values
+      type: Integer
+    CALCULATED_NOMINAL_BITRATE:
+      attributes:
+        id: CALCULATED_NOMINAL_BITRATE
+      children:
+      - children:
+        - attributes:
+            id: can1
+            value: '500'
+          type: Dynamic
+        type: Values
+      type: Integer
+    TIME_QUANTA_PERIOD:
+      attributes:
+        id: TIME_QUANTA_PERIOD
+      children:
+      - children:
+        - attributes:
+            id: can1
+            value: '100.000'
+          type: Dynamic
+        type: Values
+      type: String
+    CALCULATED_ERRORRATE:
+      attributes:
+        id: CALCULATED_ERRORRATE
+      children:
+      - children:
+        - attributes:
+            id: can1
+            value: '0.000'
+          type: Dynamic
+        type: Values
+      type: String
+    AUTO_NOMINAL_BIT_TIMING_CALCULATION:
+      attributes:
+        id: AUTO_NOMINAL_BIT_TIMING_CALCULATION
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    CAN1_FIFO0_SIZE:
+      attributes:
+        id: CAN1_FIFO0_SIZE
+      children:
+      - children:
+        - attributes:
+            value: '4'
+          type: User
+        type: Values
+      type: Integer
+    CAN1_FIFO1_SIZE:
+      attributes:
+        id: CAN1_FIFO1_SIZE
+      children:
+      - children:
+        - attributes:
+            value: '4'
+          type: User
+        type: Values
+      type: Integer
+    CAN_TIMESTAMP_ENABLE:
+      attributes:
+        id: CAN_TIMESTAMP_ENABLE
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    CAN_TIMESTAMP_PRESCALER:
+      attributes:
+        id: CAN_TIMESTAMP_PRESCALER
+      children:
+      - children:
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '256'
+          type: User
+        type: Values
+      type: Integer
+  userData: {}

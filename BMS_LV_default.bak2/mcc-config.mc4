@@ -1,0 +1,84 @@
+configVersion: 1.0.0
+coreVersion: 5.8.4
+spaHostVersion: 1.2.1
+device: PIC32MX795F512L
+deviceLibrary: {}
+groupModules: []
+modules:
+- adc
+- can1
+- core
+- dfp
+- power
+- rcon
+- rtcc
+- spi2
+- stdio
+- uart1
+generatedFileHashHistoryMap:
+- file: ..\src\config\default\definitions.h
+  hash: d591eef6bf4abec8d40c26fd109833881750cee49f236a051d99b8e257607f7c
+- file: ..\src\config\default\device.h
+  hash: 4d4341a6f9628cea0bf73f980b639f7cb81089e55a60ad7e434be2a71e477442
+- file: ..\src\config\default\exceptions.c
+  hash: df6a7db71f29db985de306abd7b848a24111cef6398ccfb9479449ae4fbc069d
+- file: ..\src\config\default\initialization.c
+  hash: 59f997f348dc892baeebd296637eae6e1b1b0ff338a2587fd60da376fb90e1f2
+- file: ..\src\config\default\interrupts.c
+  hash: 42a09adf9593ec8eff8a22cc8780c4d936e406b0492649c56af38ee02778a00e
+- file: ..\src\config\default\interrupts.h
+  hash: 71ad49e14bc958dd3b854f1e2a924bf188af529e342d628ceb2864ba82012cd4
+- file: ..\src\config\default\p32MX795F512L.ld
+  hash: 89fc5aa4d5f2061d3a5608f4779c6c2743053e5c571025736c53d5ea1ffadef4
+- file: ..\src\config\default\peripheral\can\plib_can1.c
+  hash: 543c2daedd279aa5d58f9068ffac4722d0899968702ee304f9161051017b2ee5
+- file: ..\src\config\default\peripheral\can\plib_can1.h
+  hash: e0b8e4e2aaaccaba497afcdd9c55a9e79761f18779c8568926832a5134b83434
+- file: ..\src\config\default\peripheral\can\plib_can_common.h
+  hash: efb2f6eb2247b2a709dffa2d046517af67cd5d5c167aa2815505cdf64445e379
+- file: ..\src\config\default\peripheral\clk\plib_clk.c
+  hash: 8aa2e862bc4cd5eda4ad78d8b08142efcb089478f42106a2e1cb52b32b0dc768
+- file: ..\src\config\default\peripheral\clk\plib_clk.h
+  hash: 35384f2e13e59b7190bf77f6996baf3ea2377ec42df94979a6f793326def5255
+- file: ..\src\config\default\peripheral\evic\plib_evic.c
+  hash: 2e2d4a8ca92f211e7937304188dc6cf8c1bac27c2641acf6db1b2fc10897617b
+- file: ..\src\config\default\peripheral\evic\plib_evic.h
+  hash: 38dbf2913f1b768b945ec0ed50c01f65b8929b1b2765893be843d02c495cdfae
+- file: ..\src\config\default\peripheral\gpio\plib_gpio.c
+  hash: 5ceb729d832776c7b416bfd78c5a33f43c77f408368c73917b8a3fdd697d3ea4
+- file: ..\src\config\default\peripheral\gpio\plib_gpio.h
+  hash: e3cbd22cd1397afe035420dd48802d69add602de44fa72f48eb871fe5e7b7d76
+- file: ..\src\config\default\peripheral\power\plib_power.c
+  hash: e6df2eb8c709e8d21c6422ee8e0ff50e65d5a73028d795d6bc94609d95f32161
+- file: ..\src\config\default\peripheral\power\plib_power.h
+  hash: 6cadd0c6bf0522ef1359631ad2b3f0d593805fad50d604bb753afa6b6093f7ba
+- file: ..\src\config\default\peripheral\rcon\plib_rcon.c
+  hash: 7755b1d92e76aae31a66426ed989b78d79b20f6bfa455591a8edee5476c1a266
+- file: ..\src\config\default\peripheral\rcon\plib_rcon.h
+  hash: bbf33ab896c36a3d2f28a0c75a01b6bfcf18de15e4a194828005abf76b0e2f06
+- file: ..\src\config\default\peripheral\rtcc\plib_rtcc.c
+  hash: 5c07cb5fab902d9c7de77294716575cab11442f9cf0a6459337d759f9a767958
+- file: ..\src\config\default\peripheral\rtcc\plib_rtcc.h
+  hash: 68ddc73e6ceefd83cd8fe3d6822f026968bb394acb08b1689580a4a532abe1b6
+- file: ..\src\config\default\peripheral\spi\spi_master\plib_spi2_master.c
+  hash: f0f6f77230682d8b6f9edc1e127da61ae325c760741f6a68c019a2a923fc8a45
+- file: ..\src\config\default\peripheral\spi\spi_master\plib_spi2_master.h
+  hash: 5e78a42e59de34629f92f7916be364a44ed98f1fbaecd993eb121c485092d7d1
+- file: ..\src\config\default\peripheral\spi\spi_master\plib_spi_master_common.h
+  hash: 844a71566e886cd1f28024000d440ac48841cdb4f4059f5feefac8e4334f12ef
+- file: ..\src\config\default\peripheral\uart\plib_uart1.c
+  hash: 6e7e6360c3ad19911bbf4987ce80b70dd005e29d2cb79afddfb083d1fe8a8589
+- file: ..\src\config\default\peripheral\uart\plib_uart1.h
+  hash: 62c3f14a2e0ca2d32060650d818a37b497288cedd9a4a1bed56ab6885c63be8c
+- file: ..\src\config\default\peripheral\uart\plib_uart_common.h
+  hash: b87295faadae4157d5880e22970f89094f2b51e1866930040a90ba49c6b29797
+- file: ..\src\config\default\peripheral\wdt\plib_wdt.c
+  hash: 453ad0dd7771b0b7358d6bc08d55e16839b251d4392b2e94f5999fab3f3abc73
+- file: ..\src\config\default\peripheral\wdt\plib_wdt.h
+  hash: 43b216b22f2912cecd2cf822f14c7f7273ad5614a280744738db67ce93b99b32
+- file: ..\src\config\default\stdio\xc32_monitor.c
+  hash: 858f8710d4287200a5ee7f3b3ad7c24f505aed9c05c16956ab0ff9f7bb162a6a
+- file: ..\src\config\default\toolchain_specifics.h
+  hash: f6f3282ecb4ad8b5ba3487b7d7b8f6cfa3f977240726af07eaab058caf904381
+- file: ..\src\main.c
+  hash: d3c233d419e6304bfacbafc18cc68c0f5c26e365f23b20ea40ccfac458f664c5

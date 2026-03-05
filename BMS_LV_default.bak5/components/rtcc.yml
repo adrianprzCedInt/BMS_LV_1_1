@@ -1,0 +1,95 @@
+configVersion: 1.0.0
+componentName: rtcc
+coreVersion: 5.8.4
+device: PIC32MX795F512L
+library: []
+dependency:
+- dependencyPackage: class com.microchip.mcc.harmony.HarmonyModule
+  name: rtcc
+  type: module
+  version: ''
+- dependencyPackage: ''
+  name: csp
+  type: package
+  version: v3.25.1
+customDataClassName: com.microchip.utils_mh3.utils.persistence.CustomModuleData
+data:
+  attachments: {}
+  elementPosition:
+    attributes:
+      id: __ROOTVIEW
+    children:
+    - children:
+      - attributes:
+          id: rtcc
+          x: '129'
+          y: '193'
+        type: ElementPosition
+      type: ElementPositions
+    type: ComponentGraph
+  symbols:
+    RTC_TIMEANDDATE:
+      attributes:
+        id: RTC_TIMEANDDATE
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    RTCTIME_TIME:
+      attributes:
+        id: RTCTIME_TIME
+      children:
+      - children:
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '000000'
+          type: User
+        type: Values
+      type: String
+    RTCTIME_DATE:
+      attributes:
+        id: RTCTIME_DATE
+      children:
+      - children:
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '010400'
+          type: User
+        type: Values
+      type: String
+    RTCTIME_WEEKDAY:
+      attributes:
+        id: RTCTIME_WEEKDAY
+      children:
+      - children:
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '0'
+          type: User
+        type: Values
+      type: Integer
+  userData: {}
