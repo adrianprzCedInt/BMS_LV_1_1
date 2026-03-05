@@ -5,7 +5,11 @@
         <group>
             <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/FreeRTOSConfig.h</file>
             <file>file:/C:/Users/adria/MPLABXProjects/src/main.c</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/src/config/default/device.h</file>
             <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/portable/MPLAB/PIC32MX/port.c</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/src/config/default/initialization.c</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/src/config/default/definitions.h</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/src/config/default/peripheral/gpio/plib_gpio.h</file>
         </group>
     </open-files>
 </project-private>
