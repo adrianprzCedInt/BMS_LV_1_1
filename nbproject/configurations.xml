@@ -49,6 +49,10 @@
           <itemPath>../src/config/default/device.h</itemPath>
         </logicalFolder>
       </logicalFolder>
+      <logicalFolder name="f1" displayName="fsm_lib" projectFiles="true">
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/fsm/fsm.c</itemPath>
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/fsm/fsm.h</itemPath>
+      </logicalFolder>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
@@ -87,6 +91,9 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <logicalFolder name="f3" displayName="bms_lib" projectFiles="true">
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/error_leds.c</itemPath>
+      </logicalFolder>
       <logicalFolder name="config" displayName="config" projectFiles="true">
         <logicalFolder name="default" displayName="default" projectFiles="true">
           <logicalFolder name="peripheral" displayName="peripheral" projectFiles="true">
@@ -152,12 +159,16 @@
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/stream_buffer.c</itemPath>
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/tasks.c</itemPath>
       </logicalFolder>
+      <logicalFolder name="f2" displayName="fsm" projectFiles="true">
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/fsm_error_leds.c</itemPath>
+      </logicalFolder>
       <itemPath>../src/main.c</itemPath>
     </logicalFolder>
   </logicalFolder>
   <sourceRootList>
     <Elem>C:\Users\adria\MPLABXProjects\BMS_LV.X\freeRTOS\include</Elem>
     <Elem>C:\Users\adria\MPLABXProjects\BMS_LV.X\freeRTOS\portable\MPLAB\PIC32MX</Elem>
+    <Elem>C:\Users\adria\MPLABXProjects\BMS_LV.X\fsm</Elem>
   </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -167,7 +178,7 @@
         <targetDevice>PIC32MX795F512L</targetDevice>
         <targetHeader></targetHeader>
         <targetPluginBoard></targetPluginBoard>
-        <platformTool>PK5Tool</platformTool>
+        <platformTool>noID</platformTool>
         <languageToolchain>XC32</languageToolchain>
         <languageToolchainVersion>5.00</languageToolchainVersion>
         <platform>3</platform>
@@ -356,7 +367,7 @@
       <C32Global>
         <property key="combine-sourcefiles" value="false"/>
         <property key="common-include-directories"
-                  value="freeRTOS;freeRTOS\include;freeRTOS\portable\MPLAB\PIC32MX"/>
+                  value="freeRTOS;freeRTOS\include;freeRTOS\portable\MPLAB\PIC32MX;fsm"/>
         <property key="common-macros" value=""/>
         <property key="dual-boot-partition" value="0"/>
         <property key="generic-16-bit" value="false"/>

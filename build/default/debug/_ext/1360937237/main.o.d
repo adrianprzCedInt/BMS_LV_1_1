@@ -20,7 +20,7 @@ build/default/debug/_ext/1360937237/main.o: ../src/main.c \
  freeRTOS/include/deprecated_definitions.h \
  freeRTOS/portable/MPLAB/PIC32MX/portmacro.h \
  freeRTOS/include/mpu_wrappers.h freeRTOS/include/task.h \
- freeRTOS/include/list.h
+ freeRTOS/include/list.h fsm/fsm.h
 ../src/config/default/definitions.h:
 ../src/config/default/peripheral/power/plib_power.h:
 ../src/config/default/device.h:
@@ -46,3 +46,4 @@ freeRTOS/portable/MPLAB/PIC32MX/portmacro.h:
 freeRTOS/include/mpu_wrappers.h:
 freeRTOS/include/task.h:
 freeRTOS/include/list.h:
+fsm/fsm.h:
