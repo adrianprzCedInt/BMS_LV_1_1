@@ -1,3 +1,59 @@
+
+/* ************************************************************************** */
+/** BMS UART Command Line Interface State Machine
+
+  @Company
+    UPMRacing - Adrián Pérez López - LV
+
+  @File Name
+    fsm_serial_cli.c
+
+  @Summary
+    Finite State Machine implementing a UART command line interface for the BMS.
+
+  @Description
+    This module implements a finite state machine (FSM) that provides a
+    lightweight command line interface (CLI) for interacting with the
+    Battery Management System (BMS) through the UART serial port.
+
+    The CLI receives characters from the UART peripheral, assembles them
+    into commands and executes the corresponding actions when a complete
+    command is detected. Commands are terminated by a newline or carriage
+    return character.
+
+    The received command is compared against a predefined command table
+    containing the supported CLI instructions. When a match is found, the
+    associated handler function is executed.
+
+    The CLI provides a simple diagnostic and debugging interface that allows
+    developers to inspect the internal state of the BMS during development
+    and testing. Currently implemented commands allow reading the system
+    status, warning flags and error flags stored in the global BMS flag
+    registers.
+
+    The module is designed to run periodically within a FreeRTOS task,
+    ensuring non-blocking execution and compatibility with the real-time
+    architecture of the firmware.
+
+    FSM States:
+        - WAIT_COMMAND
+            The system waits for incoming characters from the UART interface
+            and stores them in an internal command buffer.
+
+        - PROCESS_COMMAND
+            Once a complete command has been received, the command is parsed
+            and the corresponding handler function is executed.
+
+    Key features:
+        - UART-based debugging interface
+        - Table-driven command parser
+        - Minimal RAM usage with fixed command buffer
+        - Non-blocking operation suitable for RTOS environments
+        - Easily extendable command set
+
+ */
+/* ************************************************************************** */
+
 #include <string.h>
 #include <stdint.h>
 #include <stdio.h>

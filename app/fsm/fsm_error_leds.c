@@ -71,12 +71,12 @@ enum error_leds_state {
 };
 /*
             IDLE
-             ? error
-             ?
-        DISPLAY_ERROR ??timeout??? WAIT
-              ?                      ?
-              ?                      ?
-              ????? error ????????????
+             | error
+             |
+        DISPLAY_ERROR --timeout-- WAIT
+              |                      |
+              |                      |
+              ----- error ------------
  */
 
 /////////////////////////////////////////////////////////////////////////

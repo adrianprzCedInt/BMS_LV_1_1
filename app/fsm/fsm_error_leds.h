@@ -1,17 +1,15 @@
 /* ************************************************************************** */
-/** Descriptive File Name
+/** BMS Error LED State Machine
 
   @Company
-    Company Name
+    UPMRacing - Adrián Pérez López - LV
 
   @File Name
-    filename.h
+    fsm_error_leds.h
 
   @Summary
-    Brief description of the file.
-
-  @Description
-    Describe the purpose of this file.
+    Finite State Machine used to display BMS error codes using four LEDs.
+ * 
  */
 /* ************************************************************************** */
 
