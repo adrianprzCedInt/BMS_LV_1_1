@@ -98,11 +98,11 @@ static void cli_flush_uart(void)
 
 static void cmd_help(void)
 {
-    cli_print("\r\nCommands:\r\n");
-    cli_print("help\r\n");
-    cli_print("err\r\n");
-    cli_print("warn\r\n");
-    cli_print("status\r\n");
+    cli_print("Commands:\r\n");
+    cli_print("->help\r\n");
+    cli_print("->err\r\n");
+    cli_print("->warn\r\n");
+    cli_print("->status\r\n");
 }
 
 static void cmd_errors(void)
@@ -189,10 +189,14 @@ static int command_received(fsm_t *this)
 
 static void execute_command(const char *cmd)
 {
+    // Debuf for string received
+    /*
     char dbg[80];
 
     snprintf(dbg,sizeof(dbg),"CMD=[%s]\r\n",cmd);
     cli_print(dbg);
+     
+     */
 
     for(uint32_t i = 0; i < CLI_CMD_COUNT; i++)
     {
