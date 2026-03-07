@@ -7,109 +7,109 @@ Archive member included to satisfy reference by file (symbol)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1\libgcc.a(floatunsisf.o)
                               build/default/production/_ext/60165182/plib_can1.o (__floatunsisf)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
-                              C:\Users\adria\AppData\Local\Temp\ccSO817l.o (_on_reset)
+                              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o (_on_reset)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
-                              C:\Users\adria\AppData\Local\Temp\ccSO817l.o (_on_bootstrap)
+                              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o (_on_bootstrap)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-nmi-handler.o)
-                              C:\Users\adria\AppData\Local\Temp\ccSO817l.o (_nmi_handler)
+                              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o (_nmi_handler)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(pic32_data_init_core.o)
-                              C:\Users\adria\AppData\Local\Temp\ccSO817l.o (__pic32_data_init)
+                              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o (__pic32_data_init)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(general-exception.o)
-                              C:\Users\adria\AppData\Local\Temp\ccSO817l.o (_general_exception_context)
+                              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o (_general_exception_context)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector0.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_0)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_0)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector2.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_2)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_2)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector3.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_3)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_3)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector5.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_5)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_5)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector6.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_6)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_6)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector7.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_7)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_7)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector8.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_8)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_8)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector9.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_9)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_9)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector10.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_10)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_10)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector11.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_11)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_11)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector12.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_12)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_12)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector13.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_13)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_13)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector14.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_14)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_14)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector15.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_15)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_15)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector16.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_16)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_16)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector17.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_17)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_17)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector18.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_18)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_18)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector19.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_19)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_19)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector20.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_20)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_20)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector21.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_21)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_21)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector22.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_22)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_22)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector23.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_23)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_23)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector25.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_25)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_25)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector26.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_26)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_26)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector27.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_27)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_27)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector28.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_28)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_28)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector29.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_29)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_29)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector30.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_30)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_30)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector32.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_32)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_32)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector33.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_33)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_33)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector34.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_34)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_34)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector35.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_35)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_35)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector36.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_36)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_36)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector37.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_37)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_37)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector38.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_38)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_38)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector39.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_39)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_39)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector40.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_40)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_40)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector41.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_41)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_41)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector42.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_42)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_42)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector43.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_43)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_43)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector44.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_44)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_44)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector45.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_45)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_45)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector47.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_47)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_47)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector48.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_48)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_48)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector49.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_49)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_49)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector50.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_50)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_50)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector51.o)
-                              C:\Users\adria\AppData\Local\Temp\cciMN2i2.o (__vector_dispatch_51)
+                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_51)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(defaultinterrupt.o)
                               C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector0.o) (_DefaultInterrupt)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memcpy.o)
@@ -117,7 +117,7 @@ C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memset.o)
                               build/default/production/_ext/519438381/heap_4.o (memset)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_malloc.o)
-                              build/default/production/_ext/1895429688/fsm.o (malloc)
+                              build/default/production/_ext/410010953/fsm.o (malloc)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_free.o)
                               C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_malloc.o) (__init_search_fl)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(expand_heap.o)
@@ -299,9 +299,9 @@ section                    address  length [bytes]      (dec)  Description
 .text.EVIC_Initialize   0x9d00459c           0x38          56   
 .text.uxPortSetInterrup 0x9d0045d4           0x38          56   
 .text.vTaskPlaceOnEvent 0x9d00460c           0x38          56   
-.text.fsm_new           0x9d004644           0x34          52   
-.text.prvIsQueueEmpty   0x9d004678           0x34          52   
-.text.prvResetNextTaskU 0x9d0046ac           0x34          52   
+.text.prvIsQueueEmpty   0x9d004644           0x34          52   
+.text.prvResetNextTaskU 0x9d004678           0x34          52   
+.text.fsm_new           0x9d0046ac           0x34          52   
 .text.clear_error_code  0x9d0046e0           0x2c          44   
 .text.display_timeout   0x9d00470c           0x2c          44   
 .text.memcpy            0x9d004738           0x2c          44   
@@ -313,8 +313,8 @@ section                    address  length [bytes]      (dec)  Description
 .text.prvTaskExitError  0x9d004830           0x24          36   
 .rodata.xTimerCreateTim 0x9d004854           0x21          33   
 .text.vListInitialise   0x9d004878           0x20          32   
-.text.fsm_system_error_ 0x9d004898           0x20          32   
-.text.error_led_task    0x9d0048b8           0x20          32   
+.text.error_led_task    0x9d004898           0x20          32   
+.text.fsm_system_error_ 0x9d0048b8           0x20          32   
 .text                   0x9d0048d8           0x20          32  App's exec code 
 .text.CLK_Initialize    0x9d0048f8           0x1c          28   
 .rodata.xISRStackTop    0x9d004914            0x4           4   
@@ -474,35 +474,35 @@ Microchip PIC32 Memory-Usage Report By Module
          888           0           0         888         378    interrupts.o            build/default/production/_ext/1171490990/interrupts.o
          708           0          36         744         2e8    sbrk.o                  libpic32.a
          720           0           0         720         2d0    data_init               data_init
-         472          96           5         573         23d    fsm_error_leds.o        build/default/production/_ext/907408349/fsm_error_leds.o
+         472          96           5         573         23d    fsm_error_leds.o        build/default/production/_ext/411002074/fsm_error_leds.o
          548           0           0         548         224    __stdio_write.o         libc-musl.a
-         484           0           0         484         1e4    ccSO817l.o              C:\Users\adria\AppData\Local\Temp\ccSO817l.o
+         484           0           0         484         1e4    ccX4jH0p.o              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
          248           0           4         252          fc    main.o                  build/default/production/_ext/1360937237/main.o
          240           0           4         244          f4    lite_free.o             liblmalloc-musl.a
          232           0           0         232          e8    initialization.o        build/default/production/_ext/1171490990/initialization.o
          220           0           0         220          dc    general-exception.o     libpic32.a
-         208           0           0         208          d0    fsm.o                   build/default/production/_ext/1895429688/fsm.o
          208           0           0         208          d0    __stdio_close.o         libc-musl.a
          208           0           0         208          d0    __stdio_read.o          libc-musl.a
          196           0           0         196          c4    list.o                  build/default/production/_ext/1489609866/list.o
+         184           0           0         184          b8    fsm.o                   build/default/production/_ext/410010953/fsm.o
          168           0           0         168          a8    setvbuf.o               libc-musl.a
          160           4           0         164          a4    lite_malloc.o           liblmalloc-musl.a
          144           0           0         144          90    pic32_data_init_core.o  libpic32.a
-         124           0           0         124          7c    readv.o                 libc-musl.a
          124           0           0         124          7c    writev.o                libc-musl.a
+         124           0           0         124          7c    readv.o                 libc-musl.a
            8         108           0         116          74    stdout.o                libc-musl.a
           72           0           0          72          48    defaultinterrupt.o      libpic32.a
-          68           0           0          68          44    __towrite.o             libc-musl.a
           68           0           0          68          44    pic32_software_reset.o  C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\pic32_software_reset.o
-          60           0           0          60          3c    __towrite_rw.o          libc-musl.a
+          68           0           0          68          44    __towrite.o             libc-musl.a
+          64           0           0          64          40    plib_adc.o              build/default/production/_ext/60163342/plib_adc.o
           60           0           0          60          3c    expand_heap.o           libc-musl.a
+          60           0           0          60          3c    __towrite_rw.o          libc-musl.a
           56           0           0          56          38    plib_evic.o             build/default/production/_ext/1865200349/plib_evic.o
           48           0           0          48          30    exceptions.o            build/default/production/_ext/1171490990/exceptions.o
-          44           0           0          44          2c    memcpy.o                libc-size-musl.a
           44           0           0          44          2c    debug-exception-return.oC:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
-          40           0           0          40          28    memset.o                libc-size-musl.a
+          44           0           0          44          2c    memcpy.o                libc-size-musl.a
           40           0           0          40          28    plib_gpio.o             build/default/production/_ext/1865254177/plib_gpio.o
-          40           0           0          40          28    plib_adc.o              build/default/production/_ext/60163342/plib_adc.o
+          40           0           0          40          28    memset.o                libc-size-musl.a
           32           0           0          32          20    pic32_data_init_copy.o  libpic32.a
           28           0           0          28          1c    plib_clk.o              build/default/production/_ext/60165520/plib_clk.o
           24           0           0          24          18    default-nmi-handler.o   libpic32.a
@@ -562,7 +562,7 @@ Microchip PIC32 Memory-Usage Report By Module
            8           0           0           8           8    __out.o                 libc-musl.a
            8           0           0           8           8    default-on-bootstrap.o  libpic32.a
            0           0           4           4           4    errno.o                 libpic32.a
-           0           0           4           4           4    bms_flags.o             build/default/production/_ext/907408349/bms_flags.o
+           0           0           4           4           4    bms_flags.o             build/default/production/_ext/410998050/bms_flags.o
            0           0           0           3           3    padding                 padding
 --------------------------------------------------------------------------------
        19917         320       25485       45725        b29d    dist/default/production/BMS_LV.X.production.elf
@@ -570,18 +570,9 @@ Microchip PIC32 Memory-Usage Report By Module
 
 Discarded input sections
 
- .text          0x00000000        0x0 build/default/production/_ext/1895429688/fsm.o
- .data          0x00000000        0x0 build/default/production/_ext/1895429688/fsm.o
- .bss           0x00000000        0x0 build/default/production/_ext/1895429688/fsm.o
- .pdr           0x00000000       0x60 build/default/production/_ext/1895429688/fsm.o
- .text.fsm_init
-                0x00000000       0x10 build/default/production/_ext/1895429688/fsm.o
  .text          0x00000000        0x0 build/default/production/_ext/60163342/plib_adc.o
  .data          0x00000000        0x0 build/default/production/_ext/60163342/plib_adc.o
  .bss           0x00000000        0x0 build/default/production/_ext/60163342/plib_adc.o
- .reginfo       0x00000000       0x18 build/default/production/_ext/60163342/plib_adc.o
- .MIPS.abiflags
-                0x00000000       0x18 build/default/production/_ext/60163342/plib_adc.o
  .pdr           0x00000000      0x120 build/default/production/_ext/60163342/plib_adc.o
  .text.ADC_Enable
                 0x00000000       0x14 build/default/production/_ext/60163342/plib_adc.o
@@ -1114,13 +1105,6 @@ Discarded input sections
                 0x00000000       0x6c build/default/production/_ext/1489609866/tasks.o
  .text.vTaskResetState
                 0x00000000       0x38 build/default/production/_ext/1489609866/tasks.o
- .text          0x00000000        0x0 build/default/production/_ext/907408349/fsm_error_leds.o
- .data          0x00000000        0x0 build/default/production/_ext/907408349/fsm_error_leds.o
- .bss           0x00000000        0x0 build/default/production/_ext/907408349/fsm_error_leds.o
- .reginfo       0x00000000       0x18 build/default/production/_ext/907408349/fsm_error_leds.o
- .MIPS.abiflags
-                0x00000000       0x18 build/default/production/_ext/907408349/fsm_error_leds.o
- .pdr           0x00000000       0xe0 build/default/production/_ext/907408349/fsm_error_leds.o
  .text          0x00000000        0x0 build/default/production/_ext/1360937237/main.o
  .data          0x00000000        0x0 build/default/production/_ext/1360937237/main.o
  .bss           0x00000000        0x0 build/default/production/_ext/1360937237/main.o
@@ -1128,39 +1112,55 @@ Discarded input sections
  .MIPS.abiflags
                 0x00000000       0x18 build/default/production/_ext/1360937237/main.o
  .pdr           0x00000000       0x60 build/default/production/_ext/1360937237/main.o
- .text          0x00000000        0x0 build/default/production/_ext/907408349/bms_flags.o
- .data          0x00000000        0x0 build/default/production/_ext/907408349/bms_flags.o
- .bss           0x00000000        0x0 build/default/production/_ext/907408349/bms_flags.o
- .reginfo       0x00000000       0x18 build/default/production/_ext/907408349/bms_flags.o
+ .text          0x00000000        0x0 build/default/production/_ext/410010953/fsm.o
+ .data          0x00000000        0x0 build/default/production/_ext/410010953/fsm.o
+ .bss           0x00000000        0x0 build/default/production/_ext/410010953/fsm.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/410010953/fsm.o
  .MIPS.abiflags
-                0x00000000       0x18 build/default/production/_ext/907408349/bms_flags.o
- .pdr           0x00000000        0x0 build/default/production/_ext/907408349/bms_flags.o
+                0x00000000       0x18 build/default/production/_ext/410010953/fsm.o
+ .pdr           0x00000000       0x60 build/default/production/_ext/410010953/fsm.o
+ .text.fsm_init
+                0x00000000       0x10 build/default/production/_ext/410010953/fsm.o
+ .text          0x00000000        0x0 build/default/production/_ext/411002074/fsm_error_leds.o
+ .data          0x00000000        0x0 build/default/production/_ext/411002074/fsm_error_leds.o
+ .bss           0x00000000        0x0 build/default/production/_ext/411002074/fsm_error_leds.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/411002074/fsm_error_leds.o
+ .MIPS.abiflags
+                0x00000000       0x18 build/default/production/_ext/411002074/fsm_error_leds.o
+ .pdr           0x00000000       0xe0 build/default/production/_ext/411002074/fsm_error_leds.o
+ .text          0x00000000        0x0 build/default/production/_ext/410998050/bms_flags.o
+ .data          0x00000000        0x0 build/default/production/_ext/410998050/bms_flags.o
+ .bss           0x00000000        0x0 build/default/production/_ext/410998050/bms_flags.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/410998050/bms_flags.o
+ .MIPS.abiflags
+                0x00000000       0x18 build/default/production/_ext/410998050/bms_flags.o
+ .pdr           0x00000000        0x0 build/default/production/_ext/410998050/bms_flags.o
  .sbss.bms_status_flags
-                0x00000000        0x4 build/default/production/_ext/907408349/bms_flags.o
+                0x00000000        0x4 build/default/production/_ext/410998050/bms_flags.o
  .sbss.bms_warning_flags
-                0x00000000        0x4 build/default/production/_ext/907408349/bms_flags.o
- .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
- .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
- .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
- .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
+                0x00000000        0x4 build/default/production/_ext/410998050/bms_flags.o
+ .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+ .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+ .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+ .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
  .MIPS.abiflags
-                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
- .pdr           0x00000000       0xa0 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
- .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccYu92G8.o
- .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccYu92G8.o
- .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccYu92G8.o
- .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccYu92G8.o
+                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+ .pdr           0x00000000       0xa0 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+ .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
+ .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
+ .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
+ .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
  .MIPS.abiflags
-                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccYu92G8.o
- .pdr           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccYu92G8.o
- .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cciMN2i2.o
- .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cciMN2i2.o
- .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cciMN2i2.o
- .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cciMN2i2.o
+                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
+ .pdr           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
+ .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
+ .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
+ .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
+ .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
  .MIPS.abiflags
-                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cciMN2i2.o
- .pdr           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cciMN2i2.o
- .discard       0x00000000       0xd0 C:\Users\adria\AppData\Local\Temp\cciMN2i2.o
+                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
+ .pdr           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
+ .discard       0x00000000       0xd0 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
  .text          0x00000000        0x0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
  .data          0x00000000        0x0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
  .bss           0x00000000        0x0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
@@ -2639,7 +2639,6 @@ configsfrs       0xbfc02ff0         0x00000010
 
 Linker script and memory map
 
-LOAD build/default/production/_ext/1895429688/fsm.o
 LOAD build/default/production/_ext/60163342/plib_adc.o
 LOAD build/default/production/_ext/60165182/plib_can1.o
 LOAD build/default/production/_ext/60165520/plib_clk.o
@@ -2663,9 +2662,10 @@ LOAD build/default/production/_ext/1489609866/list.o
 LOAD build/default/production/_ext/1489609866/queue.o
 LOAD build/default/production/_ext/1489609866/stream_buffer.o
 LOAD build/default/production/_ext/1489609866/tasks.o
-LOAD build/default/production/_ext/907408349/fsm_error_leds.o
 LOAD build/default/production/_ext/1360937237/main.o
-LOAD build/default/production/_ext/907408349/bms_flags.o
+LOAD build/default/production/_ext/410010953/fsm.o
+LOAD build/default/production/_ext/411002074/fsm_error_leds.o
+LOAD build/default/production/_ext/410998050/bms_flags.o
                 0x00000001                        __MPLAB_BUILD = 0x1
                 0x00000400                        PROVIDE (_min_stack_size = 0x400)
 START GROUP
@@ -2713,16 +2713,16 @@ END GROUP
 
 .reset          0xbfc00000      0x170
  *(.reset)
- .reset         0xbfc00000        0x8 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
+ .reset         0xbfc00000        0x8 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
                 0xbfc00000                _reset
  *(.reset.startup)
  .reset.startup
-                0xbfc00008      0x168 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
+                0xbfc00008      0x168 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
                 0xbfc00008                _startup
 
 .bev_excpt      0xbfc00380       0x10
  *(.bev_handler)
- .bev_handler   0xbfc00380       0x10 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
+ .bev_handler   0xbfc00380       0x10 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
 
 .dbg_excpt      0xbfc00480        0x0
                 0xbfc00480                        . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
@@ -2732,7 +2732,7 @@ END GROUP
 
 .app_excpt      0x9fc01180       0x10
  *(.gen_handler)
- .gen_handler   0x9fc01180       0x10 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
+ .gen_handler   0x9fc01180       0x10 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
 
 .vector_0       0x9fc01200        0x8
  *(.vector_0)
@@ -3292,15 +3292,15 @@ END GROUP
  .sbss.pxCurrentTCB
                 0xa0000084        0x4 build/default/production/_ext/1489609866/tasks.o
                 0xa0000084                pxCurrentTCB
- .sbss.error_index
-                0xa0000088        0x1 build/default/production/_ext/907408349/fsm_error_leds.o
- *fill*         0xa0000089        0x3 
- .sbss.wait_start_tick
-                0xa000008c        0x4 build/default/production/_ext/907408349/fsm_error_leds.o
  .sbss.error_led_fsm
-                0xa0000090        0x4 build/default/production/_ext/1360937237/main.o
+                0xa0000088        0x4 build/default/production/_ext/1360937237/main.o
+ .sbss.error_index
+                0xa000008c        0x1 build/default/production/_ext/411002074/fsm_error_leds.o
+ *fill*         0xa000008d        0x3 
+ .sbss.wait_start_tick
+                0xa0000090        0x4 build/default/production/_ext/411002074/fsm_error_leds.o
  .sbss.bms_error_flags
-                0xa0000094        0x4 build/default/production/_ext/907408349/bms_flags.o
+                0xa0000094        0x4 build/default/production/_ext/410998050/bms_flags.o
                 0xa0000094                bms_error_flags
  *(.scommon)
                 0xa0000098                        _sbss_end = .
@@ -3329,7 +3329,6 @@ END GROUP
 
 .mdebug.abi32   0x00000000        0x0
  *(.mdebug.abi32)
- .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/1895429688/fsm.o
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/60163342/plib_adc.o
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/60165182/plib_can1.o
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/60165520/plib_clk.o
@@ -3352,9 +3351,10 @@ END GROUP
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/1489609866/queue.o
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/1489609866/stream_buffer.o
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/1489609866/tasks.o
- .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/907408349/fsm_error_leds.o
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/1360937237/main.o
- .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/907408349/bms_flags.o
+ .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/410010953/fsm.o
+ .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/411002074/fsm_error_leds.o
+ .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/410998050/bms_flags.o
  .mdebug.abi32  0x00000000        0x0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1\libgcc.a(floatunsisf.o)
  .mdebug.abi32  0x00000000        0x0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
  .mdebug.abi32  0x00000000        0x0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
@@ -3441,9 +3441,8 @@ END GROUP
 
 .comment        0x00000000       0x80
  *(.comment)
- .comment       0x00000000       0x80 build/default/production/_ext/1895429688/fsm.o
+ .comment       0x00000000       0x80 build/default/production/_ext/60163342/plib_adc.o
                                  0x36 (size before relaxing)
- .comment       0x00000080       0x36 build/default/production/_ext/60163342/plib_adc.o
  .comment       0x00000080       0x36 build/default/production/_ext/60165182/plib_can1.o
  .comment       0x00000080       0x36 build/default/production/_ext/60165520/plib_clk.o
  .comment       0x00000080       0x36 build/default/production/_ext/1865200349/plib_evic.o
@@ -3460,9 +3459,10 @@ END GROUP
  .comment       0x00000080       0x36 build/default/production/_ext/1489609866/list.o
  .comment       0x00000080       0x36 build/default/production/_ext/1489609866/queue.o
  .comment       0x00000080       0x36 build/default/production/_ext/1489609866/tasks.o
- .comment       0x00000080       0x36 build/default/production/_ext/907408349/fsm_error_leds.o
  .comment       0x00000080       0x36 build/default/production/_ext/1360937237/main.o
- .comment       0x00000080       0x36 build/default/production/_ext/907408349/bms_flags.o
+ .comment       0x00000080       0x36 build/default/production/_ext/410010953/fsm.o
+ .comment       0x00000080       0x36 build/default/production/_ext/411002074/fsm_error_leds.o
+ .comment       0x00000080       0x36 build/default/production/_ext/410998050/bms_flags.o
  .comment       0x00000080       0x36 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
  .comment       0x00000080       0x36 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
  .comment       0x00000080       0x36 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(defaultinterrupt.o)
@@ -3508,49 +3508,49 @@ END GROUP
  *.elf(.debug_aranges)
  *(.debug_aranges)
  .debug_aranges
-                0x00000000       0x30 build/default/production/_ext/1895429688/fsm.o
+                0x00000000       0x60 build/default/production/_ext/60163342/plib_adc.o
  .debug_aranges
-                0x00000030       0x60 build/default/production/_ext/60163342/plib_adc.o
+                0x00000060       0xa8 build/default/production/_ext/60165182/plib_can1.o
  .debug_aranges
-                0x00000090       0xa8 build/default/production/_ext/60165182/plib_can1.o
+                0x00000108       0x20 build/default/production/_ext/60165520/plib_clk.o
  .debug_aranges
-                0x00000138       0x20 build/default/production/_ext/60165520/plib_clk.o
+                0x00000128       0x68 build/default/production/_ext/1865200349/plib_evic.o
  .debug_aranges
-                0x00000158       0x68 build/default/production/_ext/1865200349/plib_evic.o
+                0x00000190       0x60 build/default/production/_ext/1865254177/plib_gpio.o
  .debug_aranges
-                0x000001c0       0x60 build/default/production/_ext/1865254177/plib_gpio.o
+                0x000001f0       0x70 build/default/production/_ext/298189674/plib_spi2_master.o
  .debug_aranges
-                0x00000220       0x70 build/default/production/_ext/298189674/plib_spi2_master.o
+                0x00000260       0xb8 build/default/production/_ext/1865657120/plib_uart1.o
  .debug_aranges
-                0x00000290       0xb8 build/default/production/_ext/1865657120/plib_uart1.o
+                0x00000318       0x28 build/default/production/_ext/163028504/xc32_monitor.o
  .debug_aranges
-                0x00000348       0x28 build/default/production/_ext/163028504/xc32_monitor.o
+                0x00000340       0x20 build/default/production/_ext/1171490990/initialization.o
  .debug_aranges
-                0x00000370       0x20 build/default/production/_ext/1171490990/initialization.o
+                0x00000360       0x48 build/default/production/_ext/1171490990/interrupts.o
  .debug_aranges
-                0x00000390       0x48 build/default/production/_ext/1171490990/interrupts.o
+                0x000003a8       0x28 build/default/production/_ext/1171490990/exceptions.o
  .debug_aranges
-                0x000003d8       0x28 build/default/production/_ext/1171490990/exceptions.o
+                0x000003d0       0x60 build/default/production/_ext/519438381/heap_4.o
  .debug_aranges
-                0x00000400       0x60 build/default/production/_ext/519438381/heap_4.o
+                0x00000430       0x68 build/default/production/_ext/428457472/port.o
  .debug_aranges
-                0x00000460       0x68 build/default/production/_ext/428457472/port.o
+                0x00000498       0x20 build/default/production/_ext/428457472/port_asm.o
  .debug_aranges
-                0x000004c8       0x20 build/default/production/_ext/428457472/port_asm.o
+                0x000004b8       0xc0 build/default/production/_ext/1489609866/timers.o
  .debug_aranges
-                0x000004e8       0xc0 build/default/production/_ext/1489609866/timers.o
+                0x00000578       0x40 build/default/production/_ext/1489609866/list.o
  .debug_aranges
-                0x000005a8       0x40 build/default/production/_ext/1489609866/list.o
+                0x000005b8       0xd0 build/default/production/_ext/1489609866/queue.o
  .debug_aranges
-                0x000005e8       0xd0 build/default/production/_ext/1489609866/queue.o
+                0x00000688      0x168 build/default/production/_ext/1489609866/tasks.o
  .debug_aranges
-                0x000006b8      0x168 build/default/production/_ext/1489609866/tasks.o
+                0x000007f0       0x30 build/default/production/_ext/1360937237/main.o
  .debug_aranges
-                0x00000820       0x50 build/default/production/_ext/907408349/fsm_error_leds.o
+                0x00000820       0x30 build/default/production/_ext/410010953/fsm.o
  .debug_aranges
-                0x00000870       0x30 build/default/production/_ext/1360937237/main.o
+                0x00000850       0x50 build/default/production/_ext/411002074/fsm_error_leds.o
  .debug_aranges
-                0x000008a0       0x18 build/default/production/_ext/907408349/bms_flags.o
+                0x000008a0       0x18 build/default/production/_ext/410998050/bms_flags.o
  .debug_aranges
                 0x000008b8       0x20 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
  .debug_aranges
@@ -3607,28 +3607,28 @@ END GROUP
 .debug_info     0x00000000     0xe198
  *.elf(.debug_info .gnu.linkonce.wi.*)
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x00000000      0x282 build/default/production/_ext/1895429688/fsm.o
- .debug_info    0x00000282      0x6f1 build/default/production/_ext/60163342/plib_adc.o
- .debug_info    0x00000973      0xe50 build/default/production/_ext/60165182/plib_can1.o
- .debug_info    0x000017c3      0x379 build/default/production/_ext/60165520/plib_clk.o
- .debug_info    0x00001b3c      0x382 build/default/production/_ext/1865200349/plib_evic.o
- .debug_info    0x00001ebe      0x341 build/default/production/_ext/1865254177/plib_gpio.o
- .debug_info    0x000021ff      0x74d build/default/production/_ext/298189674/plib_spi2_master.o
- .debug_info    0x0000294c      0x85c build/default/production/_ext/1865657120/plib_uart1.o
- .debug_info    0x000031a8       0xe2 build/default/production/_ext/163028504/xc32_monitor.o
- .debug_info    0x0000328a      0x477 build/default/production/_ext/1171490990/initialization.o
- .debug_info    0x00003701      0x11f build/default/production/_ext/1171490990/interrupts.o
- .debug_info    0x00003820      0x107 build/default/production/_ext/1171490990/exceptions.o
- .debug_info    0x00003927      0x684 build/default/production/_ext/519438381/heap_4.o
- .debug_info    0x00003fab      0xefd build/default/production/_ext/428457472/port.o
- .debug_info    0x00004ea8       0x51 build/default/production/_ext/428457472/port_asm.o
- .debug_info    0x00004ef9     0x141c build/default/production/_ext/1489609866/timers.o
- .debug_info    0x00006315      0x2f8 build/default/production/_ext/1489609866/list.o
- .debug_info    0x0000660d     0x1b29 build/default/production/_ext/1489609866/queue.o
- .debug_info    0x00008136     0x24f0 build/default/production/_ext/1489609866/tasks.o
- .debug_info    0x0000a626      0x468 build/default/production/_ext/907408349/fsm_error_leds.o
- .debug_info    0x0000aa8e      0x44d build/default/production/_ext/1360937237/main.o
- .debug_info    0x0000aedb       0xcf build/default/production/_ext/907408349/bms_flags.o
+ .debug_info    0x00000000      0x6f1 build/default/production/_ext/60163342/plib_adc.o
+ .debug_info    0x000006f1      0xe50 build/default/production/_ext/60165182/plib_can1.o
+ .debug_info    0x00001541      0x379 build/default/production/_ext/60165520/plib_clk.o
+ .debug_info    0x000018ba      0x382 build/default/production/_ext/1865200349/plib_evic.o
+ .debug_info    0x00001c3c      0x341 build/default/production/_ext/1865254177/plib_gpio.o
+ .debug_info    0x00001f7d      0x74d build/default/production/_ext/298189674/plib_spi2_master.o
+ .debug_info    0x000026ca      0x85c build/default/production/_ext/1865657120/plib_uart1.o
+ .debug_info    0x00002f26       0xe2 build/default/production/_ext/163028504/xc32_monitor.o
+ .debug_info    0x00003008      0x477 build/default/production/_ext/1171490990/initialization.o
+ .debug_info    0x0000347f      0x11f build/default/production/_ext/1171490990/interrupts.o
+ .debug_info    0x0000359e      0x107 build/default/production/_ext/1171490990/exceptions.o
+ .debug_info    0x000036a5      0x684 build/default/production/_ext/519438381/heap_4.o
+ .debug_info    0x00003d29      0xefd build/default/production/_ext/428457472/port.o
+ .debug_info    0x00004c26       0x51 build/default/production/_ext/428457472/port_asm.o
+ .debug_info    0x00004c77     0x141c build/default/production/_ext/1489609866/timers.o
+ .debug_info    0x00006093      0x2f8 build/default/production/_ext/1489609866/list.o
+ .debug_info    0x0000638b     0x1b29 build/default/production/_ext/1489609866/queue.o
+ .debug_info    0x00007eb4     0x24f0 build/default/production/_ext/1489609866/tasks.o
+ .debug_info    0x0000a3a4      0x44d build/default/production/_ext/1360937237/main.o
+ .debug_info    0x0000a7f1      0x282 build/default/production/_ext/410010953/fsm.o
+ .debug_info    0x0000aa73      0x468 build/default/production/_ext/411002074/fsm_error_leds.o
+ .debug_info    0x0000aedb       0xcf build/default/production/_ext/410998050/bms_flags.o
  .debug_info    0x0000afaa       0x40 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
  .debug_info    0x0000afea       0x40 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
  .debug_info    0x0000b02a       0x9b C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(defaultinterrupt.o)
@@ -3657,28 +3657,28 @@ END GROUP
 .debug_abbrev   0x00000000     0x4368
  *.elf(.debug_abbrev)
  *(.debug_abbrev)
- .debug_abbrev  0x00000000      0x1d5 build/default/production/_ext/1895429688/fsm.o
- .debug_abbrev  0x000001d5      0x18d build/default/production/_ext/60163342/plib_adc.o
- .debug_abbrev  0x00000362      0x366 build/default/production/_ext/60165182/plib_can1.o
- .debug_abbrev  0x000006c8       0xc8 build/default/production/_ext/60165520/plib_clk.o
- .debug_abbrev  0x00000790      0x143 build/default/production/_ext/1865200349/plib_evic.o
- .debug_abbrev  0x000008d3       0xe0 build/default/production/_ext/1865254177/plib_gpio.o
- .debug_abbrev  0x000009b3      0x258 build/default/production/_ext/298189674/plib_spi2_master.o
- .debug_abbrev  0x00000c0b      0x26d build/default/production/_ext/1865657120/plib_uart1.o
- .debug_abbrev  0x00000e78       0x9e build/default/production/_ext/163028504/xc32_monitor.o
- .debug_abbrev  0x00000f16      0x1ec build/default/production/_ext/1171490990/initialization.o
- .debug_abbrev  0x00001102       0x80 build/default/production/_ext/1171490990/interrupts.o
- .debug_abbrev  0x00001182       0x85 build/default/production/_ext/1171490990/exceptions.o
- .debug_abbrev  0x00001207      0x2d1 build/default/production/_ext/519438381/heap_4.o
- .debug_abbrev  0x000014d8      0x3b7 build/default/production/_ext/428457472/port.o
- .debug_abbrev  0x0000188f       0x21 build/default/production/_ext/428457472/port_asm.o
- .debug_abbrev  0x000018b0      0x3e5 build/default/production/_ext/1489609866/timers.o
- .debug_abbrev  0x00001c95       0xfc build/default/production/_ext/1489609866/list.o
- .debug_abbrev  0x00001d91      0x323 build/default/production/_ext/1489609866/queue.o
- .debug_abbrev  0x000020b4      0x471 build/default/production/_ext/1489609866/tasks.o
- .debug_abbrev  0x00002525      0x296 build/default/production/_ext/907408349/fsm_error_leds.o
- .debug_abbrev  0x000027bb      0x1df build/default/production/_ext/1360937237/main.o
- .debug_abbrev  0x0000299a       0x6d build/default/production/_ext/907408349/bms_flags.o
+ .debug_abbrev  0x00000000      0x18d build/default/production/_ext/60163342/plib_adc.o
+ .debug_abbrev  0x0000018d      0x366 build/default/production/_ext/60165182/plib_can1.o
+ .debug_abbrev  0x000004f3       0xc8 build/default/production/_ext/60165520/plib_clk.o
+ .debug_abbrev  0x000005bb      0x143 build/default/production/_ext/1865200349/plib_evic.o
+ .debug_abbrev  0x000006fe       0xe0 build/default/production/_ext/1865254177/plib_gpio.o
+ .debug_abbrev  0x000007de      0x258 build/default/production/_ext/298189674/plib_spi2_master.o
+ .debug_abbrev  0x00000a36      0x26d build/default/production/_ext/1865657120/plib_uart1.o
+ .debug_abbrev  0x00000ca3       0x9e build/default/production/_ext/163028504/xc32_monitor.o
+ .debug_abbrev  0x00000d41      0x1ec build/default/production/_ext/1171490990/initialization.o
+ .debug_abbrev  0x00000f2d       0x80 build/default/production/_ext/1171490990/interrupts.o
+ .debug_abbrev  0x00000fad       0x85 build/default/production/_ext/1171490990/exceptions.o
+ .debug_abbrev  0x00001032      0x2d1 build/default/production/_ext/519438381/heap_4.o
+ .debug_abbrev  0x00001303      0x3b7 build/default/production/_ext/428457472/port.o
+ .debug_abbrev  0x000016ba       0x21 build/default/production/_ext/428457472/port_asm.o
+ .debug_abbrev  0x000016db      0x3e5 build/default/production/_ext/1489609866/timers.o
+ .debug_abbrev  0x00001ac0       0xfc build/default/production/_ext/1489609866/list.o
+ .debug_abbrev  0x00001bbc      0x323 build/default/production/_ext/1489609866/queue.o
+ .debug_abbrev  0x00001edf      0x471 build/default/production/_ext/1489609866/tasks.o
+ .debug_abbrev  0x00002350      0x1df build/default/production/_ext/1360937237/main.o
+ .debug_abbrev  0x0000252f      0x1d5 build/default/production/_ext/410010953/fsm.o
+ .debug_abbrev  0x00002704      0x296 build/default/production/_ext/411002074/fsm_error_leds.o
+ .debug_abbrev  0x0000299a       0x6d build/default/production/_ext/410998050/bms_flags.o
  .debug_abbrev  0x00002a07       0x30 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
  .debug_abbrev  0x00002a37       0x30 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
  .debug_abbrev  0x00002a67       0x93 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(defaultinterrupt.o)
@@ -3704,79 +3704,79 @@ END GROUP
  .debug_abbrev  0x000042af       0x7c C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(close.o)
  .debug_abbrev  0x0000432b       0x3d C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(errno.o)
 
-.debug_line     0x00000000     0x9494
+.debug_line     0x00000000     0x94ba
  *.elf(.debug_line)
  *(.debug_line)
- .debug_line    0x00000000      0x1b0 build/default/production/_ext/1895429688/fsm.o
- .debug_line    0x000001b0      0x24f build/default/production/_ext/60163342/plib_adc.o
- .debug_line    0x000003ff      0xb8b build/default/production/_ext/60165182/plib_can1.o
- .debug_line    0x00000f8a      0x133 build/default/production/_ext/60165520/plib_clk.o
- .debug_line    0x000010bd      0x31e build/default/production/_ext/1865200349/plib_evic.o
- .debug_line    0x000013db      0x25e build/default/production/_ext/1865254177/plib_gpio.o
- .debug_line    0x00001639      0x94e build/default/production/_ext/298189674/plib_spi2_master.o
- .debug_line    0x00001f87      0x8b2 build/default/production/_ext/1865657120/plib_uart1.o
- .debug_line    0x00002839       0xcb build/default/production/_ext/163028504/xc32_monitor.o
- .debug_line    0x00002904      0x38d build/default/production/_ext/1171490990/initialization.o
- .debug_line    0x00002c91       0xe0 build/default/production/_ext/1171490990/interrupts.o
- .debug_line    0x00002d71      0x13b build/default/production/_ext/1171490990/exceptions.o
- .debug_line    0x00002eac      0x5f5 build/default/production/_ext/519438381/heap_4.o
- .debug_line    0x000034a1      0x3bb build/default/production/_ext/428457472/port.o
- .debug_line    0x0000385c      0x101 build/default/production/_ext/428457472/port_asm.o
- .debug_line    0x0000395d      0x86a build/default/production/_ext/1489609866/timers.o
- .debug_line    0x000041c7      0x2aa build/default/production/_ext/1489609866/list.o
- .debug_line    0x00004471      0xdd2 build/default/production/_ext/1489609866/queue.o
- .debug_line    0x00005243     0x16a1 build/default/production/_ext/1489609866/tasks.o
- .debug_line    0x000068e4      0x309 build/default/production/_ext/907408349/fsm_error_leds.o
- .debug_line    0x00006bed      0x19b build/default/production/_ext/1360937237/main.o
- .debug_line    0x00006d88       0xc0 build/default/production/_ext/907408349/bms_flags.o
- .debug_line    0x00006e48       0xa5 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
- .debug_line    0x00006eed       0xa9 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
- .debug_line    0x00006f96       0xd3 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(defaultinterrupt.o)
- .debug_line    0x00007069      0x16d C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memcpy.o)
- .debug_line    0x000071d6      0x164 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memset.o)
- .debug_line    0x0000733a      0x1ce C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_malloc.o)
- .debug_line    0x00007508      0x23d C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_free.o)
- .debug_line    0x00007745       0xee C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(expand_heap.o)
- .debug_line    0x00007833      0x1b4 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(stdin.o)
- .debug_line    0x000079e7      0x1e2 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(stdout.o)
- .debug_line    0x00007bc9      0x12b C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(setbuf.o)
- .debug_line    0x00007cf4      0x1d2 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__out.o)
- .debug_line    0x00007ec6      0x2a0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_close.o)
- .debug_line    0x00008166      0x24a C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_read.o)
- .debug_line    0x000083b0      0x1e2 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__towrite_rw.o)
- .debug_line    0x00008592      0x1aa C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(setvbuf.o)
- .debug_line    0x0000873c      0x15f C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(readv.o)
- .debug_line    0x0000889b      0x2d5 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_write.o)
- .debug_line    0x00008b70      0x180 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__towrite.o)
- .debug_line    0x00008cf0      0x160 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(writev.o)
- .debug_line    0x00008e50      0x410 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(sbrk.o)
- .debug_line    0x00009260       0x9e C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(lseek.o)
- .debug_line    0x000092fe       0x9e C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(close.o)
- .debug_line    0x0000939c       0xf8 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(errno.o)
+ .debug_line    0x00000000      0x24f build/default/production/_ext/60163342/plib_adc.o
+ .debug_line    0x0000024f      0xb8b build/default/production/_ext/60165182/plib_can1.o
+ .debug_line    0x00000dda      0x133 build/default/production/_ext/60165520/plib_clk.o
+ .debug_line    0x00000f0d      0x31e build/default/production/_ext/1865200349/plib_evic.o
+ .debug_line    0x0000122b      0x25e build/default/production/_ext/1865254177/plib_gpio.o
+ .debug_line    0x00001489      0x94e build/default/production/_ext/298189674/plib_spi2_master.o
+ .debug_line    0x00001dd7      0x8b2 build/default/production/_ext/1865657120/plib_uart1.o
+ .debug_line    0x00002689       0xcb build/default/production/_ext/163028504/xc32_monitor.o
+ .debug_line    0x00002754      0x38d build/default/production/_ext/1171490990/initialization.o
+ .debug_line    0x00002ae1       0xe0 build/default/production/_ext/1171490990/interrupts.o
+ .debug_line    0x00002bc1      0x13b build/default/production/_ext/1171490990/exceptions.o
+ .debug_line    0x00002cfc      0x5f5 build/default/production/_ext/519438381/heap_4.o
+ .debug_line    0x000032f1      0x3bb build/default/production/_ext/428457472/port.o
+ .debug_line    0x000036ac      0x101 build/default/production/_ext/428457472/port_asm.o
+ .debug_line    0x000037ad      0x86a build/default/production/_ext/1489609866/timers.o
+ .debug_line    0x00004017      0x2aa build/default/production/_ext/1489609866/list.o
+ .debug_line    0x000042c1      0xdd2 build/default/production/_ext/1489609866/queue.o
+ .debug_line    0x00005093     0x16a1 build/default/production/_ext/1489609866/tasks.o
+ .debug_line    0x00006734      0x1b0 build/default/production/_ext/1360937237/main.o
+ .debug_line    0x000068e4      0x1b5 build/default/production/_ext/410010953/fsm.o
+ .debug_line    0x00006a99      0x31e build/default/production/_ext/411002074/fsm_error_leds.o
+ .debug_line    0x00006db7       0xb7 build/default/production/_ext/410998050/bms_flags.o
+ .debug_line    0x00006e6e       0xa5 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
+ .debug_line    0x00006f13       0xa9 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_line    0x00006fbc       0xd3 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(defaultinterrupt.o)
+ .debug_line    0x0000708f      0x16d C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memcpy.o)
+ .debug_line    0x000071fc      0x164 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memset.o)
+ .debug_line    0x00007360      0x1ce C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_malloc.o)
+ .debug_line    0x0000752e      0x23d C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_free.o)
+ .debug_line    0x0000776b       0xee C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(expand_heap.o)
+ .debug_line    0x00007859      0x1b4 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(stdin.o)
+ .debug_line    0x00007a0d      0x1e2 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(stdout.o)
+ .debug_line    0x00007bef      0x12b C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(setbuf.o)
+ .debug_line    0x00007d1a      0x1d2 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__out.o)
+ .debug_line    0x00007eec      0x2a0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_close.o)
+ .debug_line    0x0000818c      0x24a C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_read.o)
+ .debug_line    0x000083d6      0x1e2 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__towrite_rw.o)
+ .debug_line    0x000085b8      0x1aa C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(setvbuf.o)
+ .debug_line    0x00008762      0x15f C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(readv.o)
+ .debug_line    0x000088c1      0x2d5 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_write.o)
+ .debug_line    0x00008b96      0x180 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__towrite.o)
+ .debug_line    0x00008d16      0x160 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(writev.o)
+ .debug_line    0x00008e76      0x410 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(sbrk.o)
+ .debug_line    0x00009286       0x9e C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(lseek.o)
+ .debug_line    0x00009324       0x9e C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(close.o)
+ .debug_line    0x000093c2       0xf8 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(errno.o)
 
 .debug_frame    0x00000000     0x1a10
  *.elf(.debug_frame)
  *(.debug_frame)
- .debug_frame   0x00000000       0x5c build/default/production/_ext/1895429688/fsm.o
- .debug_frame   0x0000005c       0xa0 build/default/production/_ext/60163342/plib_adc.o
- .debug_frame   0x000000fc      0x158 build/default/production/_ext/60165182/plib_can1.o
- .debug_frame   0x00000254       0x20 build/default/production/_ext/60165520/plib_clk.o
- .debug_frame   0x00000274       0xd4 build/default/production/_ext/1865200349/plib_evic.o
- .debug_frame   0x00000348       0xa0 build/default/production/_ext/1865254177/plib_gpio.o
- .debug_frame   0x000003e8       0xfc build/default/production/_ext/298189674/plib_spi2_master.o
- .debug_frame   0x000004e4      0x194 build/default/production/_ext/1865657120/plib_uart1.o
- .debug_frame   0x00000678       0x30 build/default/production/_ext/163028504/xc32_monitor.o
- .debug_frame   0x000006a8       0x2c build/default/production/_ext/1171490990/initialization.o
- .debug_frame   0x000006d4      0x130 build/default/production/_ext/1171490990/interrupts.o
- .debug_frame   0x00000804       0x40 build/default/production/_ext/1171490990/exceptions.o
- .debug_frame   0x00000844       0xec build/default/production/_ext/519438381/heap_4.o
- .debug_frame   0x00000930       0xf0 build/default/production/_ext/428457472/port.o
- .debug_frame   0x00000a20      0x248 build/default/production/_ext/1489609866/timers.o
- .debug_frame   0x00000c68       0x60 build/default/production/_ext/1489609866/list.o
- .debug_frame   0x00000cc8      0x2d8 build/default/production/_ext/1489609866/queue.o
- .debug_frame   0x00000fa0      0x45c build/default/production/_ext/1489609866/tasks.o
- .debug_frame   0x000013fc       0xa4 build/default/production/_ext/907408349/fsm_error_leds.o
- .debug_frame   0x000014a0       0x58 build/default/production/_ext/1360937237/main.o
+ .debug_frame   0x00000000       0xa0 build/default/production/_ext/60163342/plib_adc.o
+ .debug_frame   0x000000a0      0x158 build/default/production/_ext/60165182/plib_can1.o
+ .debug_frame   0x000001f8       0x20 build/default/production/_ext/60165520/plib_clk.o
+ .debug_frame   0x00000218       0xd4 build/default/production/_ext/1865200349/plib_evic.o
+ .debug_frame   0x000002ec       0xa0 build/default/production/_ext/1865254177/plib_gpio.o
+ .debug_frame   0x0000038c       0xfc build/default/production/_ext/298189674/plib_spi2_master.o
+ .debug_frame   0x00000488      0x194 build/default/production/_ext/1865657120/plib_uart1.o
+ .debug_frame   0x0000061c       0x30 build/default/production/_ext/163028504/xc32_monitor.o
+ .debug_frame   0x0000064c       0x2c build/default/production/_ext/1171490990/initialization.o
+ .debug_frame   0x00000678      0x130 build/default/production/_ext/1171490990/interrupts.o
+ .debug_frame   0x000007a8       0x40 build/default/production/_ext/1171490990/exceptions.o
+ .debug_frame   0x000007e8       0xec build/default/production/_ext/519438381/heap_4.o
+ .debug_frame   0x000008d4       0xf0 build/default/production/_ext/428457472/port.o
+ .debug_frame   0x000009c4      0x248 build/default/production/_ext/1489609866/timers.o
+ .debug_frame   0x00000c0c       0x60 build/default/production/_ext/1489609866/list.o
+ .debug_frame   0x00000c6c      0x2d8 build/default/production/_ext/1489609866/queue.o
+ .debug_frame   0x00000f44      0x45c build/default/production/_ext/1489609866/tasks.o
+ .debug_frame   0x000013a0       0x58 build/default/production/_ext/1360937237/main.o
+ .debug_frame   0x000013f8       0x5c build/default/production/_ext/410010953/fsm.o
+ .debug_frame   0x00001454       0xa4 build/default/production/_ext/411002074/fsm_error_leds.o
  .debug_frame   0x000014f8       0x20 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
  .debug_frame   0x00001518       0x20 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
  .debug_frame   0x00001538       0x20 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(defaultinterrupt.o)
@@ -3801,78 +3801,78 @@ END GROUP
  .debug_frame   0x000019d0       0x20 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(lseek.o)
  .debug_frame   0x000019f0       0x20 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(close.o)
 
-.debug_str      0x00000000     0x5346
+.debug_str      0x00000000     0x5339
  *.elf(.debug_str)
  *(.debug_str)
- .debug_str     0x00000000     0x5346 build/default/production/_ext/1895429688/fsm.o
-                                0x33c (size before relaxing)
- .debug_str     0x00005346      0x992 build/default/production/_ext/60163342/plib_adc.o
- .debug_str     0x00005346      0xa6a build/default/production/_ext/60165182/plib_can1.o
- .debug_str     0x00005346      0x425 build/default/production/_ext/60165520/plib_clk.o
- .debug_str     0x00005346      0x495 build/default/production/_ext/1865200349/plib_evic.o
- .debug_str     0x00005346      0x419 build/default/production/_ext/1865254177/plib_gpio.o
- .debug_str     0x00005346      0x6f0 build/default/production/_ext/298189674/plib_spi2_master.o
- .debug_str     0x00005346      0x6cf build/default/production/_ext/1865657120/plib_uart1.o
- .debug_str     0x00005346      0x2bb build/default/production/_ext/163028504/xc32_monitor.o
- .debug_str     0x00005346      0x506 build/default/production/_ext/1171490990/initialization.o
- .debug_str     0x00005346      0x37e build/default/production/_ext/1171490990/interrupts.o
- .debug_str     0x00005346      0x37f build/default/production/_ext/1171490990/exceptions.o
- .debug_str     0x00005346      0x6c9 build/default/production/_ext/519438381/heap_4.o
- .debug_str     0x00005346      0x8e3 build/default/production/_ext/428457472/port.o
- .debug_str     0x00005346       0xbc build/default/production/_ext/428457472/port_asm.o
- .debug_str     0x00005346      0xa8e build/default/production/_ext/1489609866/timers.o
- .debug_str     0x00005346      0x459 build/default/production/_ext/1489609866/list.o
- .debug_str     0x00005346      0xa4e build/default/production/_ext/1489609866/queue.o
- .debug_str     0x00005346     0x1001 build/default/production/_ext/1489609866/tasks.o
- .debug_str     0x00005346      0x4ca build/default/production/_ext/907408349/fsm_error_leds.o
- .debug_str     0x00005346      0x479 build/default/production/_ext/1360937237/main.o
- .debug_str     0x00005346      0x33f build/default/production/_ext/907408349/bms_flags.o
- .debug_str     0x00005346      0x2b7 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
- .debug_str     0x00005346      0x2bf C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
- .debug_str     0x00005346      0x349 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(defaultinterrupt.o)
- .debug_str     0x00005346      0x276 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memcpy.o)
- .debug_str     0x00005346      0x262 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memset.o)
- .debug_str     0x00005346      0x321 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_malloc.o)
- .debug_str     0x00005346      0x329 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_free.o)
- .debug_str     0x00005346      0x2cd C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(expand_heap.o)
- .debug_str     0x00005346      0x3ab C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(stdin.o)
- .debug_str     0x00005346      0x3ec C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(stdout.o)
- .debug_str     0x00005346      0x275 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(setbuf.o)
- .debug_str     0x00005346      0x30a C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__out.o)
- .debug_str     0x00005346      0x385 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_close.o)
- .debug_str     0x00005346      0x38a C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_read.o)
- .debug_str     0x00005346      0x365 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__towrite_rw.o)
- .debug_str     0x00005346      0x351 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(setvbuf.o)
- .debug_str     0x00005346      0x29d C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(readv.o)
- .debug_str     0x00005346      0x36e C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_write.o)
- .debug_str     0x00005346      0x311 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__towrite.o)
- .debug_str     0x00005346      0x2a0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(writev.o)
- .debug_str     0x00005346      0x3b0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(sbrk.o)
- .debug_str     0x00005346      0x357 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(lseek.o)
- .debug_str     0x00005346      0x340 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(close.o)
- .debug_str     0x00005346      0x2a8 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(errno.o)
+ .debug_str     0x00000000     0x5339 build/default/production/_ext/60163342/plib_adc.o
+                                0x992 (size before relaxing)
+ .debug_str     0x00005339      0xa6a build/default/production/_ext/60165182/plib_can1.o
+ .debug_str     0x00005339      0x425 build/default/production/_ext/60165520/plib_clk.o
+ .debug_str     0x00005339      0x495 build/default/production/_ext/1865200349/plib_evic.o
+ .debug_str     0x00005339      0x419 build/default/production/_ext/1865254177/plib_gpio.o
+ .debug_str     0x00005339      0x6f0 build/default/production/_ext/298189674/plib_spi2_master.o
+ .debug_str     0x00005339      0x6cf build/default/production/_ext/1865657120/plib_uart1.o
+ .debug_str     0x00005339      0x2bb build/default/production/_ext/163028504/xc32_monitor.o
+ .debug_str     0x00005339      0x506 build/default/production/_ext/1171490990/initialization.o
+ .debug_str     0x00005339      0x37e build/default/production/_ext/1171490990/interrupts.o
+ .debug_str     0x00005339      0x37f build/default/production/_ext/1171490990/exceptions.o
+ .debug_str     0x00005339      0x6c9 build/default/production/_ext/519438381/heap_4.o
+ .debug_str     0x00005339      0x8e3 build/default/production/_ext/428457472/port.o
+ .debug_str     0x00005339       0xbc build/default/production/_ext/428457472/port_asm.o
+ .debug_str     0x00005339      0xa8e build/default/production/_ext/1489609866/timers.o
+ .debug_str     0x00005339      0x459 build/default/production/_ext/1489609866/list.o
+ .debug_str     0x00005339      0xa4e build/default/production/_ext/1489609866/queue.o
+ .debug_str     0x00005339     0x1001 build/default/production/_ext/1489609866/tasks.o
+ .debug_str     0x00005339      0x479 build/default/production/_ext/1360937237/main.o
+ .debug_str     0x00005339      0x341 build/default/production/_ext/410010953/fsm.o
+ .debug_str     0x00005339      0x4c1 build/default/production/_ext/411002074/fsm_error_leds.o
+ .debug_str     0x00005339      0x336 build/default/production/_ext/410998050/bms_flags.o
+ .debug_str     0x00005339      0x2b7 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
+ .debug_str     0x00005339      0x2bf C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
+ .debug_str     0x00005339      0x349 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(defaultinterrupt.o)
+ .debug_str     0x00005339      0x276 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memcpy.o)
+ .debug_str     0x00005339      0x262 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memset.o)
+ .debug_str     0x00005339      0x321 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_malloc.o)
+ .debug_str     0x00005339      0x329 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_free.o)
+ .debug_str     0x00005339      0x2cd C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(expand_heap.o)
+ .debug_str     0x00005339      0x3ab C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(stdin.o)
+ .debug_str     0x00005339      0x3ec C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(stdout.o)
+ .debug_str     0x00005339      0x275 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(setbuf.o)
+ .debug_str     0x00005339      0x30a C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__out.o)
+ .debug_str     0x00005339      0x385 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_close.o)
+ .debug_str     0x00005339      0x38a C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_read.o)
+ .debug_str     0x00005339      0x365 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__towrite_rw.o)
+ .debug_str     0x00005339      0x351 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(setvbuf.o)
+ .debug_str     0x00005339      0x29d C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(readv.o)
+ .debug_str     0x00005339      0x36e C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__stdio_write.o)
+ .debug_str     0x00005339      0x311 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(__towrite.o)
+ .debug_str     0x00005339      0x2a0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-musl.a(writev.o)
+ .debug_str     0x00005339      0x3b0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(sbrk.o)
+ .debug_str     0x00005339      0x357 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(lseek.o)
+ .debug_str     0x00005339      0x340 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(close.o)
+ .debug_str     0x00005339      0x2a8 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(errno.o)
 
 .debug_loc      0x00000000     0x8892
  *.elf(.debug_loc)
  *(.debug_loc)
- .debug_loc     0x00000000      0x122 build/default/production/_ext/1895429688/fsm.o
- .debug_loc     0x00000122       0x2b build/default/production/_ext/60163342/plib_adc.o
- .debug_loc     0x0000014d      0xad8 build/default/production/_ext/60165182/plib_can1.o
- .debug_loc     0x00000c25      0x173 build/default/production/_ext/1865200349/plib_evic.o
- .debug_loc     0x00000d98      0x183 build/default/production/_ext/1865254177/plib_gpio.o
- .debug_loc     0x00000f1b      0x4d8 build/default/production/_ext/298189674/plib_spi2_master.o
- .debug_loc     0x000013f3      0x5c0 build/default/production/_ext/1865657120/plib_uart1.o
- .debug_loc     0x000019b3       0x57 build/default/production/_ext/1171490990/initialization.o
- .debug_loc     0x00001a0a       0xd5 build/default/production/_ext/1171490990/interrupts.o
- .debug_loc     0x00001adf       0x40 build/default/production/_ext/1171490990/exceptions.o
- .debug_loc     0x00001b1f      0x553 build/default/production/_ext/519438381/heap_4.o
- .debug_loc     0x00002072      0x22e build/default/production/_ext/428457472/port.o
- .debug_loc     0x000022a0     0x1039 build/default/production/_ext/1489609866/timers.o
- .debug_loc     0x000032d9       0x6e build/default/production/_ext/1489609866/list.o
- .debug_loc     0x00003347     0x18d5 build/default/production/_ext/1489609866/queue.o
- .debug_loc     0x00004c1c     0x241f build/default/production/_ext/1489609866/tasks.o
- .debug_loc     0x0000703b      0x181 build/default/production/_ext/907408349/fsm_error_leds.o
- .debug_loc     0x000071bc       0xb6 build/default/production/_ext/1360937237/main.o
+ .debug_loc     0x00000000       0x2b build/default/production/_ext/60163342/plib_adc.o
+ .debug_loc     0x0000002b      0xad8 build/default/production/_ext/60165182/plib_can1.o
+ .debug_loc     0x00000b03      0x173 build/default/production/_ext/1865200349/plib_evic.o
+ .debug_loc     0x00000c76      0x183 build/default/production/_ext/1865254177/plib_gpio.o
+ .debug_loc     0x00000df9      0x4d8 build/default/production/_ext/298189674/plib_spi2_master.o
+ .debug_loc     0x000012d1      0x5c0 build/default/production/_ext/1865657120/plib_uart1.o
+ .debug_loc     0x00001891       0x57 build/default/production/_ext/1171490990/initialization.o
+ .debug_loc     0x000018e8       0xd5 build/default/production/_ext/1171490990/interrupts.o
+ .debug_loc     0x000019bd       0x40 build/default/production/_ext/1171490990/exceptions.o
+ .debug_loc     0x000019fd      0x553 build/default/production/_ext/519438381/heap_4.o
+ .debug_loc     0x00001f50      0x22e build/default/production/_ext/428457472/port.o
+ .debug_loc     0x0000217e     0x1039 build/default/production/_ext/1489609866/timers.o
+ .debug_loc     0x000031b7       0x6e build/default/production/_ext/1489609866/list.o
+ .debug_loc     0x00003225     0x18d5 build/default/production/_ext/1489609866/queue.o
+ .debug_loc     0x00004afa     0x241f build/default/production/_ext/1489609866/tasks.o
+ .debug_loc     0x00006f19       0xb6 build/default/production/_ext/1360937237/main.o
+ .debug_loc     0x00006fcf      0x122 build/default/production/_ext/410010953/fsm.o
+ .debug_loc     0x000070f1      0x181 build/default/production/_ext/411002074/fsm_error_leds.o
  .debug_loc     0x00007272       0xfe C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memcpy.o)
  .debug_loc     0x00007370      0x101 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memset.o)
  .debug_loc     0x00007471       0xf7 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\liblmalloc-musl.a(lite_malloc.o)
@@ -3916,26 +3916,26 @@ END GROUP
 .debug_ranges   0x00000000      0xc80
  *.elf(.debug_ranges)
  *(.debug_ranges)
- .debug_ranges  0x00000000       0x20 build/default/production/_ext/1895429688/fsm.o
- .debug_ranges  0x00000020       0x50 build/default/production/_ext/60163342/plib_adc.o
- .debug_ranges  0x00000070       0x98 build/default/production/_ext/60165182/plib_can1.o
- .debug_ranges  0x00000108       0x10 build/default/production/_ext/60165520/plib_clk.o
- .debug_ranges  0x00000118       0x58 build/default/production/_ext/1865200349/plib_evic.o
- .debug_ranges  0x00000170       0x50 build/default/production/_ext/1865254177/plib_gpio.o
- .debug_ranges  0x000001c0       0xd0 build/default/production/_ext/298189674/plib_spi2_master.o
- .debug_ranges  0x00000290      0x100 build/default/production/_ext/1865657120/plib_uart1.o
- .debug_ranges  0x00000390       0x18 build/default/production/_ext/163028504/xc32_monitor.o
- .debug_ranges  0x000003a8       0x10 build/default/production/_ext/1171490990/initialization.o
- .debug_ranges  0x000003b8       0x38 build/default/production/_ext/1171490990/interrupts.o
- .debug_ranges  0x000003f0       0x18 build/default/production/_ext/1171490990/exceptions.o
- .debug_ranges  0x00000408       0x68 build/default/production/_ext/519438381/heap_4.o
- .debug_ranges  0x00000470       0x58 build/default/production/_ext/428457472/port.o
- .debug_ranges  0x000004c8      0x110 build/default/production/_ext/1489609866/timers.o
- .debug_ranges  0x000005d8       0x30 build/default/production/_ext/1489609866/list.o
- .debug_ranges  0x00000608      0x180 build/default/production/_ext/1489609866/queue.o
- .debug_ranges  0x00000788      0x248 build/default/production/_ext/1489609866/tasks.o
- .debug_ranges  0x000009d0       0x58 build/default/production/_ext/907408349/fsm_error_leds.o
- .debug_ranges  0x00000a28       0x20 build/default/production/_ext/1360937237/main.o
+ .debug_ranges  0x00000000       0x50 build/default/production/_ext/60163342/plib_adc.o
+ .debug_ranges  0x00000050       0x98 build/default/production/_ext/60165182/plib_can1.o
+ .debug_ranges  0x000000e8       0x10 build/default/production/_ext/60165520/plib_clk.o
+ .debug_ranges  0x000000f8       0x58 build/default/production/_ext/1865200349/plib_evic.o
+ .debug_ranges  0x00000150       0x50 build/default/production/_ext/1865254177/plib_gpio.o
+ .debug_ranges  0x000001a0       0xd0 build/default/production/_ext/298189674/plib_spi2_master.o
+ .debug_ranges  0x00000270      0x100 build/default/production/_ext/1865657120/plib_uart1.o
+ .debug_ranges  0x00000370       0x18 build/default/production/_ext/163028504/xc32_monitor.o
+ .debug_ranges  0x00000388       0x10 build/default/production/_ext/1171490990/initialization.o
+ .debug_ranges  0x00000398       0x38 build/default/production/_ext/1171490990/interrupts.o
+ .debug_ranges  0x000003d0       0x18 build/default/production/_ext/1171490990/exceptions.o
+ .debug_ranges  0x000003e8       0x68 build/default/production/_ext/519438381/heap_4.o
+ .debug_ranges  0x00000450       0x58 build/default/production/_ext/428457472/port.o
+ .debug_ranges  0x000004a8      0x110 build/default/production/_ext/1489609866/timers.o
+ .debug_ranges  0x000005b8       0x30 build/default/production/_ext/1489609866/list.o
+ .debug_ranges  0x000005e8      0x180 build/default/production/_ext/1489609866/queue.o
+ .debug_ranges  0x00000768      0x248 build/default/production/_ext/1489609866/tasks.o
+ .debug_ranges  0x000009b0       0x20 build/default/production/_ext/1360937237/main.o
+ .debug_ranges  0x000009d0       0x20 build/default/production/_ext/410010953/fsm.o
+ .debug_ranges  0x000009f0       0x58 build/default/production/_ext/411002074/fsm_error_leds.o
  .debug_ranges  0x00000a48       0x10 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
  .debug_ranges  0x00000a58       0x10 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
  .debug_ranges  0x00000a68       0x10 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(defaultinterrupt.o)
@@ -3967,65 +3967,65 @@ END GROUP
                 0x00000000       0x10
  *(.gnu.attributes)
  .gnu.attributes
-                0x00000000       0x10 build/default/production/_ext/1895429688/fsm.o
+                0x00000000       0x10 build/default/production/_ext/60163342/plib_adc.o
  .gnu.attributes
-                0x00000010       0x10 build/default/production/_ext/60163342/plib_adc.o
+                0x00000010       0x10 build/default/production/_ext/60165182/plib_can1.o
  .gnu.attributes
-                0x00000020       0x10 build/default/production/_ext/60165182/plib_can1.o
+                0x00000020       0x10 build/default/production/_ext/60165520/plib_clk.o
  .gnu.attributes
-                0x00000030       0x10 build/default/production/_ext/60165520/plib_clk.o
+                0x00000030       0x10 build/default/production/_ext/1865200349/plib_evic.o
  .gnu.attributes
-                0x00000040       0x10 build/default/production/_ext/1865200349/plib_evic.o
+                0x00000040       0x10 build/default/production/_ext/1865254177/plib_gpio.o
  .gnu.attributes
-                0x00000050       0x10 build/default/production/_ext/1865254177/plib_gpio.o
+                0x00000050       0x10 build/default/production/_ext/1996599795/plib_power.o
  .gnu.attributes
-                0x00000060       0x10 build/default/production/_ext/1996599795/plib_power.o
+                0x00000060       0x10 build/default/production/_ext/1865569570/plib_rcon.o
  .gnu.attributes
-                0x00000070       0x10 build/default/production/_ext/1865569570/plib_rcon.o
+                0x00000070       0x10 build/default/production/_ext/298189674/plib_spi2_master.o
  .gnu.attributes
-                0x00000080       0x10 build/default/production/_ext/298189674/plib_spi2_master.o
+                0x00000080       0x10 build/default/production/_ext/1865657120/plib_uart1.o
  .gnu.attributes
-                0x00000090       0x10 build/default/production/_ext/1865657120/plib_uart1.o
+                0x00000090       0x10 build/default/production/_ext/60184501/plib_wdt.o
  .gnu.attributes
-                0x000000a0       0x10 build/default/production/_ext/60184501/plib_wdt.o
+                0x000000a0       0x10 build/default/production/_ext/163028504/xc32_monitor.o
  .gnu.attributes
-                0x000000b0       0x10 build/default/production/_ext/163028504/xc32_monitor.o
+                0x000000b0       0x10 build/default/production/_ext/1171490990/initialization.o
  .gnu.attributes
-                0x000000c0       0x10 build/default/production/_ext/1171490990/initialization.o
+                0x000000c0       0x10 build/default/production/_ext/1171490990/interrupts.o
  .gnu.attributes
-                0x000000d0       0x10 build/default/production/_ext/1171490990/interrupts.o
+                0x000000d0       0x10 build/default/production/_ext/1171490990/exceptions.o
  .gnu.attributes
-                0x000000e0       0x10 build/default/production/_ext/1171490990/exceptions.o
+                0x000000e0       0x10 build/default/production/_ext/519438381/heap_4.o
  .gnu.attributes
-                0x000000f0       0x10 build/default/production/_ext/519438381/heap_4.o
+                0x000000f0       0x10 build/default/production/_ext/428457472/port.o
  .gnu.attributes
-                0x00000100       0x10 build/default/production/_ext/428457472/port.o
+                0x00000100       0x10 build/default/production/_ext/428457472/port_asm.o
  .gnu.attributes
-                0x00000110       0x10 build/default/production/_ext/428457472/port_asm.o
+                0x00000110       0x10 build/default/production/_ext/1489609866/timers.o
  .gnu.attributes
-                0x00000120       0x10 build/default/production/_ext/1489609866/timers.o
+                0x00000120       0x10 build/default/production/_ext/1489609866/event_groups.o
  .gnu.attributes
-                0x00000130       0x10 build/default/production/_ext/1489609866/event_groups.o
+                0x00000130       0x10 build/default/production/_ext/1489609866/list.o
  .gnu.attributes
-                0x00000140       0x10 build/default/production/_ext/1489609866/list.o
+                0x00000140       0x10 build/default/production/_ext/1489609866/queue.o
  .gnu.attributes
-                0x00000150       0x10 build/default/production/_ext/1489609866/queue.o
+                0x00000150       0x10 build/default/production/_ext/1489609866/stream_buffer.o
  .gnu.attributes
-                0x00000160       0x10 build/default/production/_ext/1489609866/stream_buffer.o
+                0x00000160       0x10 build/default/production/_ext/1489609866/tasks.o
  .gnu.attributes
-                0x00000170       0x10 build/default/production/_ext/1489609866/tasks.o
+                0x00000170       0x10 build/default/production/_ext/1360937237/main.o
  .gnu.attributes
-                0x00000180       0x10 build/default/production/_ext/907408349/fsm_error_leds.o
+                0x00000180       0x10 build/default/production/_ext/410010953/fsm.o
  .gnu.attributes
-                0x00000190       0x10 build/default/production/_ext/1360937237/main.o
+                0x00000190       0x10 build/default/production/_ext/411002074/fsm_error_leds.o
  .gnu.attributes
-                0x000001a0       0x10 build/default/production/_ext/907408349/bms_flags.o
+                0x000001a0       0x10 build/default/production/_ext/410998050/bms_flags.o
  .gnu.attributes
-                0x000001b0       0x10 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
+                0x000001b0       0x10 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
  .gnu.attributes
-                0x000001c0       0x10 C:\Users\adria\AppData\Local\Temp\ccYu92G8.o
+                0x000001c0       0x10 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
  .gnu.attributes
-                0x000001d0       0x10 C:\Users\adria\AppData\Local\Temp\cciMN2i2.o
+                0x000001d0       0x10 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
  .gnu.attributes
                 0x000001e0       0x10 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
  .gnu.attributes
@@ -4244,9 +4244,9 @@ END GROUP
  *(.gnu.lto_*)
  *(.discard)
                 0x00000200                        _min_heap_size = 0x200
-LOAD C:\Users\adria\AppData\Local\Temp\ccSO817l.o
-LOAD C:\Users\adria\AppData\Local\Temp\ccYu92G8.o
-LOAD C:\Users\adria\AppData\Local\Temp\cciMN2i2.o
+LOAD C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+LOAD C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
+LOAD C:\Users\adria\AppData\Local\Temp\cclKahpU.o
 LOAD C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
 LOAD C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\pic32_software_reset.o
 LOAD C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1\libgcc.a
@@ -4266,36 +4266,36 @@ OUTPUT(dist/default/production/BMS_LV.X.production.elf elf32-tradlittlemips)
 LOAD data_init
 
 .note           0x00000000      0xdb0
- .note          0x00000000       0x18 build/default/production/_ext/1895429688/fsm.o
- .note          0x00000018       0x18 build/default/production/_ext/60163342/plib_adc.o
- .note          0x00000030       0x48 build/default/production/_ext/60165182/plib_can1.o
- .note          0x00000078       0x18 build/default/production/_ext/60165520/plib_clk.o
- .note          0x00000090       0x18 build/default/production/_ext/1865200349/plib_evic.o
- .note          0x000000a8       0x18 build/default/production/_ext/1865254177/plib_gpio.o
- .note          0x000000c0       0x18 build/default/production/_ext/1996599795/plib_power.o
- .note          0x000000d8       0x18 build/default/production/_ext/1865569570/plib_rcon.o
- .note          0x000000f0       0x18 build/default/production/_ext/298189674/plib_spi2_master.o
- .note          0x00000108       0x18 build/default/production/_ext/1865657120/plib_uart1.o
- .note          0x00000120       0x18 build/default/production/_ext/60184501/plib_wdt.o
- .note          0x00000138       0x18 build/default/production/_ext/163028504/xc32_monitor.o
- .note          0x00000150       0xd8 build/default/production/_ext/1171490990/initialization.o
- .note          0x00000228       0x18 build/default/production/_ext/1171490990/interrupts.o
- .note          0x00000240       0x18 build/default/production/_ext/1171490990/exceptions.o
- .note          0x00000258       0x18 build/default/production/_ext/519438381/heap_4.o
- .note          0x00000270       0x18 build/default/production/_ext/428457472/port.o
- .note          0x00000288       0x18 build/default/production/_ext/428457472/port_asm.o
- .note          0x000002a0       0x18 build/default/production/_ext/1489609866/timers.o
- .note          0x000002b8       0x18 build/default/production/_ext/1489609866/event_groups.o
- .note          0x000002d0       0x18 build/default/production/_ext/1489609866/list.o
- .note          0x000002e8       0x18 build/default/production/_ext/1489609866/queue.o
- .note          0x00000300       0x18 build/default/production/_ext/1489609866/stream_buffer.o
- .note          0x00000318       0x18 build/default/production/_ext/1489609866/tasks.o
- .note          0x00000330       0x18 build/default/production/_ext/907408349/fsm_error_leds.o
- .note          0x00000348       0x18 build/default/production/_ext/1360937237/main.o
- .note          0x00000360       0x18 build/default/production/_ext/907408349/bms_flags.o
- .note          0x00000378       0x18 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
- .note          0x00000390       0x18 C:\Users\adria\AppData\Local\Temp\ccYu92G8.o
- .note          0x000003a8       0x18 C:\Users\adria\AppData\Local\Temp\cciMN2i2.o
+ .note          0x00000000       0x18 build/default/production/_ext/60163342/plib_adc.o
+ .note          0x00000018       0x48 build/default/production/_ext/60165182/plib_can1.o
+ .note          0x00000060       0x18 build/default/production/_ext/60165520/plib_clk.o
+ .note          0x00000078       0x18 build/default/production/_ext/1865200349/plib_evic.o
+ .note          0x00000090       0x18 build/default/production/_ext/1865254177/plib_gpio.o
+ .note          0x000000a8       0x18 build/default/production/_ext/1996599795/plib_power.o
+ .note          0x000000c0       0x18 build/default/production/_ext/1865569570/plib_rcon.o
+ .note          0x000000d8       0x18 build/default/production/_ext/298189674/plib_spi2_master.o
+ .note          0x000000f0       0x18 build/default/production/_ext/1865657120/plib_uart1.o
+ .note          0x00000108       0x18 build/default/production/_ext/60184501/plib_wdt.o
+ .note          0x00000120       0x18 build/default/production/_ext/163028504/xc32_monitor.o
+ .note          0x00000138       0xd8 build/default/production/_ext/1171490990/initialization.o
+ .note          0x00000210       0x18 build/default/production/_ext/1171490990/interrupts.o
+ .note          0x00000228       0x18 build/default/production/_ext/1171490990/exceptions.o
+ .note          0x00000240       0x18 build/default/production/_ext/519438381/heap_4.o
+ .note          0x00000258       0x18 build/default/production/_ext/428457472/port.o
+ .note          0x00000270       0x18 build/default/production/_ext/428457472/port_asm.o
+ .note          0x00000288       0x18 build/default/production/_ext/1489609866/timers.o
+ .note          0x000002a0       0x18 build/default/production/_ext/1489609866/event_groups.o
+ .note          0x000002b8       0x18 build/default/production/_ext/1489609866/list.o
+ .note          0x000002d0       0x18 build/default/production/_ext/1489609866/queue.o
+ .note          0x000002e8       0x18 build/default/production/_ext/1489609866/stream_buffer.o
+ .note          0x00000300       0x18 build/default/production/_ext/1489609866/tasks.o
+ .note          0x00000318       0x18 build/default/production/_ext/1360937237/main.o
+ .note          0x00000330       0x18 build/default/production/_ext/410010953/fsm.o
+ .note          0x00000348       0x18 build/default/production/_ext/411002074/fsm_error_leds.o
+ .note          0x00000360       0x18 build/default/production/_ext/410998050/bms_flags.o
+ .note          0x00000378       0x18 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+ .note          0x00000390       0x18 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
+ .note          0x000003a8       0x18 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
  .note          0x000003c0       0x48 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
  .note          0x00000408       0x18 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\pic32_software_reset.o
  .note          0x00000420       0x18 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1\libgcc.a(floatunsisf.o)
@@ -4402,7 +4402,7 @@ LOAD data_init
  .note          0x00000d98       0x18 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(pic32_data_init_copy.o)
 
 .reginfo        0x00000000       0x18
- .reginfo       0x00000000       0x18 build/default/production/_ext/1895429688/fsm.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/60163342/plib_adc.o
 
 .rodata.vTaskStartScheduler.str1.4%1
 
@@ -4420,7 +4420,7 @@ LOAD data_init
 .data.fsm_error_leds_tt
                 0xa00001f0       0x60
  .data.fsm_error_leds_tt
-                0xa00001f0       0x60 build/default/production/_ext/907408349/fsm_error_leds.o
+                0xa00001f0       0x60 build/default/production/_ext/411002074/fsm_error_leds.o
                 0xa00001f0                fsm_error_leds_tt
 
 .data           0xa0000098        0x4
@@ -4640,7 +4640,7 @@ LOAD data_init
 .text.error_code
                 0x9d002990       0xf4
  .text.error_code
-                0x9d002990       0xf4 build/default/production/_ext/907408349/fsm_error_leds.o
+                0x9d002990       0xf4 build/default/production/_ext/411002074/fsm_error_leds.o
 
 .text.xQueueGenericReset
                 0x9d002a84       0xf0
@@ -4764,7 +4764,7 @@ LOAD data_init
 
 .text.fsm_fire  0x9d003900       0x84
  .text.fsm_fire
-                0x9d003900       0x84 build/default/production/_ext/1895429688/fsm.o
+                0x9d003900       0x84 build/default/production/_ext/410010953/fsm.o
                 0x9d003900                fsm_fire
 
 .text.main      0x9d003984       0x80
@@ -4896,12 +4896,12 @@ LOAD data_init
 .text.start_wait
                 0x9d0042e4       0x54
  .text.start_wait
-                0x9d0042e4       0x54 build/default/production/_ext/907408349/fsm_error_leds.o
+                0x9d0042e4       0x54 build/default/production/_ext/411002074/fsm_error_leds.o
 
 .text.main_entry
                 0x9d004338       0x54
  .text.main_entry
-                0x9d004338       0x54 C:\Users\adria\AppData\Local\Temp\ccSO817l.o
+                0x9d004338       0x54 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
                 0x9d00436c                __crt0_exit
 
 .text.vTaskEnterCritical
@@ -4968,29 +4968,29 @@ LOAD data_init
                 0x9d00460c       0x38 build/default/production/_ext/1489609866/tasks.o
                 0x9d00460c                vTaskPlaceOnEventList
 
-.text.fsm_new   0x9d004644       0x34
- .text.fsm_new  0x9d004644       0x34 build/default/production/_ext/1895429688/fsm.o
-                0x9d004644                fsm_new
-
 .text.prvIsQueueEmpty
-                0x9d004678       0x34
+                0x9d004644       0x34
  .text.prvIsQueueEmpty
-                0x9d004678       0x34 build/default/production/_ext/1489609866/queue.o
+                0x9d004644       0x34 build/default/production/_ext/1489609866/queue.o
 
 .text.prvResetNextTaskUnblockTime
-                0x9d0046ac       0x34
+                0x9d004678       0x34
  .text.prvResetNextTaskUnblockTime
-                0x9d0046ac       0x34 build/default/production/_ext/1489609866/tasks.o
+                0x9d004678       0x34 build/default/production/_ext/1489609866/tasks.o
+
+.text.fsm_new   0x9d0046ac       0x34
+ .text.fsm_new  0x9d0046ac       0x34 build/default/production/_ext/410010953/fsm.o
+                0x9d0046ac                fsm_new
 
 .text.clear_error_code
                 0x9d0046e0       0x2c
  .text.clear_error_code
-                0x9d0046e0       0x2c build/default/production/_ext/907408349/fsm_error_leds.o
+                0x9d0046e0       0x2c build/default/production/_ext/411002074/fsm_error_leds.o
 
 .text.display_timeout
                 0x9d00470c       0x2c
  .text.display_timeout
-                0x9d00470c       0x2c build/default/production/_ext/907408349/fsm_error_leds.o
+                0x9d00470c       0x2c build/default/production/_ext/411002074/fsm_error_leds.o
 
 .text.memcpy    0x9d004738       0x2c
  .text.memcpy   0x9d004738       0x2c C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memcpy.o)
@@ -5042,16 +5042,16 @@ LOAD data_init
                 0x9d004878       0x20 build/default/production/_ext/1489609866/list.o
                 0x9d004878                vListInitialise
 
-.text.fsm_system_error_led_new
-                0x9d004898       0x20
- .text.fsm_system_error_led_new
-                0x9d004898       0x20 build/default/production/_ext/907408349/fsm_error_leds.o
-                0x9d004898                fsm_system_error_led_new
-
 .text.error_led_task
-                0x9d0048b8       0x20
+                0x9d004898       0x20
  .text.error_led_task
-                0x9d0048b8       0x20 build/default/production/_ext/1360937237/main.o
+                0x9d004898       0x20 build/default/production/_ext/1360937237/main.o
+
+.text.fsm_system_error_led_new
+                0x9d0048b8       0x20
+ .text.fsm_system_error_led_new
+                0x9d0048b8       0x20 build/default/production/_ext/411002074/fsm_error_leds.o
+                0x9d0048b8                fsm_system_error_led_new
 
 .text           0x9d0048d8       0x20
  .text          0x9d0048d8       0x20 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(pic32_data_init_copy.o)
@@ -5066,7 +5066,7 @@ LOAD data_init
 
 .MIPS.abiflags  0x9d004918       0x18
  .MIPS.abiflags
-                0x9d004918       0x18 build/default/production/_ext/1895429688/fsm.o
+                0x9d004918       0x18 build/default/production/_ext/60163342/plib_adc.o
 
 .text._general_exception_handler
                 0x9d004930       0x18
@@ -5120,11 +5120,11 @@ LOAD data_init
 
 .text.is_Error  0x9d0049f8        0xc
  .text.is_Error
-                0x9d0049f8        0xc build/default/production/_ext/907408349/fsm_error_leds.o
+                0x9d0049f8        0xc build/default/production/_ext/411002074/fsm_error_leds.o
 
 .text.no_Error  0x9d004a04        0xc
  .text.no_Error
-                0x9d004a04        0xc build/default/production/_ext/907408349/fsm_error_leds.o
+                0x9d004a04        0xc build/default/production/_ext/411002074/fsm_error_leds.o
 
 .text.read      0x9d004a10        0x8
  .text.read     0x9d004a10        0x8 build/default/production/_ext/163028504/xc32_monitor.o

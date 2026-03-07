@@ -4,6 +4,9 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <logicalFolder name="f2" displayName="bms" projectFiles="true">
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/bms_flags.h</itemPath>
+      </logicalFolder>
       <logicalFolder name="config" displayName="config" projectFiles="true">
         <logicalFolder name="default" displayName="default" projectFiles="true">
           <logicalFolder name="peripheral" displayName="peripheral" projectFiles="true">
@@ -48,17 +51,14 @@
           <itemPath>../src/config/default/interrupts.h</itemPath>
           <itemPath>../src/config/default/device.h</itemPath>
         </logicalFolder>
-        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/BMS_conf.h</itemPath>
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/config/BMS_conf.h</itemPath>
       </logicalFolder>
       <logicalFolder name="f3" displayName="fsm" projectFiles="true">
-        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/fsm_error_leds.h</itemPath>
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_error_leds.h</itemPath>
       </logicalFolder>
       <logicalFolder name="f1" displayName="fsm_lib" projectFiles="true">
-        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/fsm/fsm.c</itemPath>
-        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/fsm/fsm.h</itemPath>
-      </logicalFolder>
-      <logicalFolder name="f2" displayName="Macros" projectFiles="true">
-        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/bms_flags.h</itemPath>
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/libs/fsm/fsm.c</itemPath>
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/libs/fsm/fsm.h</itemPath>
       </logicalFolder>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
@@ -99,7 +99,13 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <logicalFolder name="f3" displayName="bms_lib" projectFiles="true">
+      <logicalFolder name="f4" displayName="app" projectFiles="true">
+        <logicalFolder name="f2" displayName="bms" projectFiles="true">
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/bms_flags.c</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f1" displayName="fsm" projectFiles="true">
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_error_leds.c</itemPath>
+        </logicalFolder>
       </logicalFolder>
       <logicalFolder name="config" displayName="config" projectFiles="true">
         <logicalFolder name="default" displayName="default" projectFiles="true">
@@ -144,7 +150,6 @@
           <itemPath>../src/config/default/interrupts.c</itemPath>
           <itemPath>../src/config/default/exceptions.c</itemPath>
         </logicalFolder>
-        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/bms_flags.c</itemPath>
       </logicalFolder>
       <logicalFolder name="f1" displayName="freeRTOS" projectFiles="true">
         <logicalFolder name="f1" displayName="include" projectFiles="true">
@@ -166,9 +171,6 @@
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/queue.c</itemPath>
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/stream_buffer.c</itemPath>
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/tasks.c</itemPath>
-      </logicalFolder>
-      <logicalFolder name="f2" displayName="fsm" projectFiles="true">
-        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/fsm_error_leds.c</itemPath>
       </logicalFolder>
       <itemPath>../src/main.c</itemPath>
     </logicalFolder>
@@ -373,7 +375,7 @@
       <C32Global>
         <property key="combine-sourcefiles" value="false"/>
         <property key="common-include-directories"
-                  value="freeRTOS;freeRTOS\include;freeRTOS\portable\MPLAB\PIC32MX;fsm"/>
+                  value="freeRTOS;freeRTOS\include;freeRTOS\portable\MPLAB\PIC32MX;libs\fsm;app\config;app\fsm;app\bms"/>
         <property key="common-macros" value=""/>
         <property key="dual-boot-partition" value="0"/>
         <property key="generic-16-bit" value="false"/>
@@ -469,8 +471,6 @@
         <property key="memories.programmemory" value="true"/>
         <property key="memories.programmemory.ranges" value="1d000000-1d07ffff"/>
         <property key="poweroptions.powerenable" value="true"/>
-        <property key="programmerToGoFilePath"
-                  value="C:/Users/adria/MPLABXProjects/BMS_LV.X/debug/default/BMS_LV_ptg"/>
         <property key="programmerToGoImageName" value="BMS_LV_ptg"/>
         <property key="programoptions.donoteraseauxmem" value="false"/>
         <property key="programoptions.eraseb4program" value="true"/>

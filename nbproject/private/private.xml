@@ -3,12 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/bms_flags.h</file>
             <file>file:/C:/Users/adria/MPLABXProjects/src/main.c</file>
-            <file>file:/C:/Users/adria/MPLABXProjects/src/config/default/peripheral/wdt/plib_wdt.h</file>
-            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/error_leds.c</file>
-            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/fsm/fsm.h</file>
-            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/fsm/fsm.c</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/fsm_error_leds.h</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/BMS_conf.h</file>
             <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/fsm_error_leds.c</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/bms_flags.c</file>
         </group>
     </open-files>
 </project-private>
