@@ -3,7 +3,8 @@
   @Company
     UPMRacing - Adrián Pérez López - LV
   @Summary
-    Definition and manipulation of BMS flags.ç
+    Definition and manipulation of BMS flags.
+*/
 /* ************************************************************************** */
 
 #ifndef _BMS_FLAGS_H_
