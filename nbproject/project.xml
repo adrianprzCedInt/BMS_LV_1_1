@@ -9,9 +9,7 @@
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList>
-                <sourceRootElem>C:\Users\adria\MPLABXProjects\BMS_LV.X\freeRTOS\include</sourceRootElem>
-                <sourceRootElem>C:\Users\adria\MPLABXProjects\BMS_LV.X\freeRTOS\portable\MPLAB\PIC32MX</sourceRootElem>
-                <sourceRootElem>C:\Users\adria\MPLABXProjects\BMS_LV.X\fsm</sourceRootElem>
+                <sourceRootElem>C:\Users\adria\MPLABXProjects\BMS_LV.X</sourceRootElem>
             </sourceRootList>
             <confList>
                 <confElem>

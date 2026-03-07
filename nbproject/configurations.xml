@@ -48,10 +48,17 @@
           <itemPath>../src/config/default/interrupts.h</itemPath>
           <itemPath>../src/config/default/device.h</itemPath>
         </logicalFolder>
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/BMS_conf.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f3" displayName="fsm" projectFiles="true">
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/fsm_error_leds.h</itemPath>
       </logicalFolder>
       <logicalFolder name="f1" displayName="fsm_lib" projectFiles="true">
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/fsm/fsm.c</itemPath>
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/fsm/fsm.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f2" displayName="Macros" projectFiles="true">
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/bms_flags.h</itemPath>
       </logicalFolder>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
@@ -74,6 +81,7 @@
         <itemPath>BMS_LV_default/mcc-config.mc4</itemPath>
       </logicalFolder>
       <itemPath>Makefile</itemPath>
+      <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/README.md</itemPath>
     </logicalFolder>
     <logicalFolder name="LibraryFiles"
                    displayName="LibraryFiles"
@@ -92,7 +100,6 @@
                    displayName="Source Files"
                    projectFiles="true">
       <logicalFolder name="f3" displayName="bms_lib" projectFiles="true">
-        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/freeRTOS/include/error_leds.c</itemPath>
       </logicalFolder>
       <logicalFolder name="config" displayName="config" projectFiles="true">
         <logicalFolder name="default" displayName="default" projectFiles="true">
@@ -166,9 +173,7 @@
     </logicalFolder>
   </logicalFolder>
   <sourceRootList>
-    <Elem>C:\Users\adria\MPLABXProjects\BMS_LV.X\freeRTOS\include</Elem>
-    <Elem>C:\Users\adria\MPLABXProjects\BMS_LV.X\freeRTOS\portable\MPLAB\PIC32MX</Elem>
-    <Elem>C:\Users\adria\MPLABXProjects\BMS_LV.X\fsm</Elem>
+    <Elem>C:\Users\adria\MPLABXProjects\BMS_LV.X</Elem>
   </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -178,7 +183,7 @@
         <targetDevice>PIC32MX795F512L</targetDevice>
         <targetHeader></targetHeader>
         <targetPluginBoard></targetPluginBoard>
-        <platformTool>noID</platformTool>
+        <platformTool>PK5Tool</platformTool>
         <languageToolchain>XC32</languageToolchain>
         <languageToolchainVersion>5.00</languageToolchainVersion>
         <platform>3</platform>
