@@ -7,109 +7,109 @@ Archive member included to satisfy reference by file (symbol)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1\libgcc.a(floatunsisf.o)
                               build/default/production/_ext/60165182/plib_can1.o (__floatunsisf)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-reset.o)
-                              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o (_on_reset)
+                              C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o (_on_reset)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-on-bootstrap.o)
-                              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o (_on_bootstrap)
+                              C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o (_on_bootstrap)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(default-nmi-handler.o)
-                              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o (_nmi_handler)
+                              C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o (_nmi_handler)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(pic32_data_init_core.o)
-                              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o (__pic32_data_init)
+                              C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o (__pic32_data_init)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(general-exception.o)
-                              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o (_general_exception_context)
+                              C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o (_general_exception_context)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector0.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_0)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_0)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector2.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_2)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_2)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector3.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_3)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_3)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector5.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_5)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_5)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector6.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_6)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_6)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector7.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_7)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_7)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector8.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_8)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_8)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector9.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_9)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_9)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector10.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_10)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_10)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector11.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_11)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_11)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector12.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_12)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_12)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector13.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_13)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_13)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector14.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_14)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_14)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector15.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_15)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_15)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector16.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_16)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_16)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector17.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_17)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_17)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector18.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_18)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_18)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector19.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_19)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_19)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector20.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_20)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_20)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector21.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_21)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_21)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector22.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_22)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_22)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector23.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_23)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_23)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector25.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_25)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_25)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector26.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_26)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_26)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector27.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_27)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_27)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector28.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_28)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_28)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector29.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_29)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_29)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector30.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_30)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_30)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector32.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_32)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_32)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector33.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_33)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_33)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector34.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_34)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_34)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector35.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_35)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_35)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector36.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_36)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_36)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector37.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_37)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_37)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector38.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_38)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_38)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector39.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_39)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_39)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector40.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_40)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_40)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector41.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_41)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_41)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector42.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_42)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_42)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector43.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_43)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_43)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector44.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_44)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_44)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector45.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_45)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_45)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector47.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_47)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_47)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector48.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_48)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_48)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector49.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_49)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_49)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector50.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_50)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_50)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector51.o)
-                              C:\Users\adria\AppData\Local\Temp\cclKahpU.o (__vector_dispatch_51)
+                              C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o (__vector_dispatch_51)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(defaultinterrupt.o)
                               C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libpic32.a(vector0.o) (_DefaultInterrupt)
 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\libc-size-musl.a(memcpy.o)
@@ -476,7 +476,7 @@ Microchip PIC32 Memory-Usage Report By Module
          720           0           0         720         2d0    data_init               data_init
          472          96           5         573         23d    fsm_error_leds.o        build/default/production/_ext/411002074/fsm_error_leds.o
          548           0           0         548         224    __stdio_write.o         libc-musl.a
-         484           0           0         484         1e4    ccX4jH0p.o              C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+         484           0           0         484         1e4    ccCfeWjz.o              C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
          248           0           4         252          fc    main.o                  build/default/production/_ext/1360937237/main.o
          240           0           4         244          f4    lite_free.o             liblmalloc-musl.a
          232           0           0         232          e8    initialization.o        build/default/production/_ext/1171490990/initialization.o
@@ -1139,28 +1139,28 @@ Discarded input sections
                 0x00000000        0x4 build/default/production/_ext/410998050/bms_flags.o
  .sbss.bms_warning_flags
                 0x00000000        0x4 build/default/production/_ext/410998050/bms_flags.o
- .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
- .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
- .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
- .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+ .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
+ .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
+ .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
+ .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
  .MIPS.abiflags
-                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
- .pdr           0x00000000       0xa0 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
- .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
- .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
- .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
- .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
+                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
+ .pdr           0x00000000       0xa0 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
+ .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc9DI4FW.o
+ .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc9DI4FW.o
+ .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc9DI4FW.o
+ .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cc9DI4FW.o
  .MIPS.abiflags
-                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
- .pdr           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
- .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
- .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
- .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
- .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
+                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cc9DI4FW.o
+ .pdr           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cc9DI4FW.o
+ .text          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o
+ .data          0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o
+ .bss           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o
+ .reginfo       0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o
  .MIPS.abiflags
-                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
- .pdr           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
- .discard       0x00000000       0xd0 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
+                0x00000000       0x18 C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o
+ .pdr           0x00000000        0x0 C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o
+ .discard       0x00000000       0xd0 C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o
  .text          0x00000000        0x0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
  .data          0x00000000        0x0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
  .bss           0x00000000        0x0 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
@@ -2713,16 +2713,16 @@ END GROUP
 
 .reset          0xbfc00000      0x170
  *(.reset)
- .reset         0xbfc00000        0x8 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+ .reset         0xbfc00000        0x8 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
                 0xbfc00000                _reset
  *(.reset.startup)
  .reset.startup
-                0xbfc00008      0x168 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+                0xbfc00008      0x168 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
                 0xbfc00008                _startup
 
 .bev_excpt      0xbfc00380       0x10
  *(.bev_handler)
- .bev_handler   0xbfc00380       0x10 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+ .bev_handler   0xbfc00380       0x10 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
 
 .dbg_excpt      0xbfc00480        0x0
                 0xbfc00480                        . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
@@ -2732,7 +2732,7 @@ END GROUP
 
 .app_excpt      0x9fc01180       0x10
  *(.gen_handler)
- .gen_handler   0x9fc01180       0x10 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+ .gen_handler   0x9fc01180       0x10 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
 
 .vector_0       0x9fc01200        0x8
  *(.vector_0)
@@ -4021,11 +4021,11 @@ END GROUP
  .gnu.attributes
                 0x000001a0       0x10 build/default/production/_ext/410998050/bms_flags.o
  .gnu.attributes
-                0x000001b0       0x10 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+                0x000001b0       0x10 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
  .gnu.attributes
-                0x000001c0       0x10 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
+                0x000001c0       0x10 C:\Users\adria\AppData\Local\Temp\cc9DI4FW.o
  .gnu.attributes
-                0x000001d0       0x10 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
+                0x000001d0       0x10 C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o
  .gnu.attributes
                 0x000001e0       0x10 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
  .gnu.attributes
@@ -4244,9 +4244,9 @@ END GROUP
  *(.gnu.lto_*)
  *(.discard)
                 0x00000200                        _min_heap_size = 0x200
-LOAD C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
-LOAD C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
-LOAD C:\Users\adria\AppData\Local\Temp\cclKahpU.o
+LOAD C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
+LOAD C:\Users\adria\AppData\Local\Temp\cc9DI4FW.o
+LOAD C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o
 LOAD C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
 LOAD C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\pic32_software_reset.o
 LOAD C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1\libgcc.a
@@ -4293,9 +4293,9 @@ LOAD data_init
  .note          0x00000330       0x18 build/default/production/_ext/410010953/fsm.o
  .note          0x00000348       0x18 build/default/production/_ext/411002074/fsm_error_leds.o
  .note          0x00000360       0x18 build/default/production/_ext/410998050/bms_flags.o
- .note          0x00000378       0x18 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
- .note          0x00000390       0x18 C:\Users\adria\AppData\Local\Temp\cc2JJkJD.o
- .note          0x000003a8       0x18 C:\Users\adria\AppData\Local\Temp\cclKahpU.o
+ .note          0x00000378       0x18 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
+ .note          0x00000390       0x18 C:\Users\adria\AppData\Local\Temp\cc9DI4FW.o
+ .note          0x000003a8       0x18 C:\Users\adria\AppData\Local\Temp\ccGg2Zjq.o
  .note          0x000003c0       0x48 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\debug-exception-return.o
  .note          0x00000408       0x18 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1/../../../../pic32m/lib\pic32_software_reset.o
  .note          0x00000420       0x18 C:/Program Files/Microchip/xc32/v5.00/bin/bin/../../lib/gcc/pic32m/13.2.1\libgcc.a(floatunsisf.o)
@@ -4901,7 +4901,7 @@ LOAD data_init
 .text.main_entry
                 0x9d004338       0x54
  .text.main_entry
-                0x9d004338       0x54 C:\Users\adria\AppData\Local\Temp\ccX4jH0p.o
+                0x9d004338       0x54 C:\Users\adria\AppData\Local\Temp\ccCfeWjz.o
                 0x9d00436c                __crt0_exit
 
 .text.vTaskEnterCritical

@@ -6,6 +6,7 @@
                    projectFiles="true">
       <logicalFolder name="f2" displayName="bms" projectFiles="true">
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/bms_flags.h</itemPath>
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/BMS_conf.h</itemPath>
       </logicalFolder>
       <logicalFolder name="config" displayName="config" projectFiles="true">
         <logicalFolder name="default" displayName="default" projectFiles="true">
@@ -51,7 +52,6 @@
           <itemPath>../src/config/default/interrupts.h</itemPath>
           <itemPath>../src/config/default/device.h</itemPath>
         </logicalFolder>
-        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/config/BMS_conf.h</itemPath>
       </logicalFolder>
       <logicalFolder name="f3" displayName="fsm" projectFiles="true">
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_error_leds.h</itemPath>
@@ -375,7 +375,7 @@
       <C32Global>
         <property key="combine-sourcefiles" value="false"/>
         <property key="common-include-directories"
-                  value="freeRTOS;freeRTOS\include;freeRTOS\portable\MPLAB\PIC32MX;libs\fsm;app\config;app\fsm;app\bms"/>
+                  value="freeRTOS;freeRTOS\include;freeRTOS\portable\MPLAB\PIC32MX;libs\fsm;app\fsm;app\bms"/>
         <property key="common-macros" value=""/>
         <property key="dual-boot-partition" value="0"/>
         <property key="generic-16-bit" value="false"/>
