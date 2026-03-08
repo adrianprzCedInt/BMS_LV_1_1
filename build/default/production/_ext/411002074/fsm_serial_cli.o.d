@@ -3,7 +3,12 @@ build/default/production/_ext/411002074/fsm_serial_cli.o: \
  libs/fsm/fsm.h \
  C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_serial_cli.h \
  C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_bms_mode.h \
- app/bms/bms_flags.h ../src/config/default/definitions.h \
+ app/bms/bms_flags.h freeRTOS/include/FreeRTOS.h \
+ freeRTOS/include/FreeRTOSConfig.h freeRTOS/include/projdefs.h \
+ freeRTOS/include/portable.h freeRTOS/include/deprecated_definitions.h \
+ freeRTOS/portable/MPLAB/PIC32MX/portmacro.h \
+ freeRTOS/include/mpu_wrappers.h freeRTOS/include/task.h \
+ freeRTOS/include/list.h ../src/config/default/definitions.h \
  ../src/config/default/peripheral/power/plib_power.h \
  ../src/config/default/device.h \
  ../src/config/default/toolchain_specifics.h \
@@ -23,6 +28,15 @@ libs/fsm/fsm.h:
 C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_serial_cli.h:
 C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_bms_mode.h:
 app/bms/bms_flags.h:
+freeRTOS/include/FreeRTOS.h:
+freeRTOS/include/FreeRTOSConfig.h:
+freeRTOS/include/projdefs.h:
+freeRTOS/include/portable.h:
+freeRTOS/include/deprecated_definitions.h:
+freeRTOS/portable/MPLAB/PIC32MX/portmacro.h:
+freeRTOS/include/mpu_wrappers.h:
+freeRTOS/include/task.h:
+freeRTOS/include/list.h:
 ../src/config/default/definitions.h:
 ../src/config/default/peripheral/power/plib_power.h:
 ../src/config/default/device.h:
