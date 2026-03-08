@@ -63,6 +63,7 @@
 #include "fsm_bms_mode.h"
 #include "bms_flags.h"
 #include "definitions.h"
+#include "BMS_conf.h"
 
 #define CMD_BUFFER_SIZE 64
 
@@ -96,6 +97,7 @@ static void cmd_idle(void);
 static void cmd_error(void);
 static void cmd_clear(void);
 static void cmd_mode(void);
+static void cmd_bms(void);
 
 static void execute_command(const char *cmd);
 static void cli_trim(char *s);
@@ -106,16 +108,17 @@ static void cli_trim(char *s);
 
 static const cli_cmd_t cli_table[] =
 {
-    { "help",      cmd_help     },
-    { "get errors",       cmd_errors   },
+    { "help",              cmd_help     },
+    { "get errors",        cmd_errors   },
     { "get warnings",      cmd_warnings },
-    { "get status",    cmd_status   },
-    { "set mode idle",      cmd_idle     },
-    { "set mode discharge", cmd_discharge},
-    { "set mode charge",    cmd_charge   },
-    { "set mode error",     cmd_error    },
-    { "clear errors",     cmd_clear    },
-    { "mode",      cmd_mode     }
+    { "get status",        cmd_status   },
+    { "get bms",           cmd_bms      },
+    { "set mode idle",     cmd_idle     },
+    { "set mode discharge",cmd_discharge},
+    { "set mode charge",   cmd_charge   },
+    { "set mode error",    cmd_error    },
+    { "clear errors",      cmd_clear    },
+    { "mode",              cmd_mode     }
 };
 
 #define CLI_CMD_COUNT (sizeof(cli_table)/sizeof(cli_cmd_t))
@@ -178,6 +181,7 @@ static void cmd_help(void)
 
     cli_print("\r\nGET COMMANDS\r\n");
     cli_print("-----------------------------------------\r\n");
+    cli_print("  get bms           -> Show full BMS structure\r\n");
     cli_print("  get errors        -> Show error flags\r\n");
     cli_print("  get warnings      -> Show warning flags\r\n");
     cli_print("  get status        -> Show status flags\r\n");
@@ -196,6 +200,87 @@ static void cmd_help(void)
     cli_print("  help              -> Show this menu\r\n");
 
     cli_print("\r\n");
+}
+static void cmd_bms(void)
+{
+    char buffer[128];
+
+    cli_print("\r\n");
+    cli_print("============= BMS DATA =============\r\n");
+
+    /* BMS MODE */
+
+    cli_print("Mode: ");
+
+    switch(bms.mode)
+    {
+        case BMS_IDLE:
+            cli_print("IDLE\r\n");
+            break;
+
+        case BMS_DISCHARGE:
+            cli_print("DISCHARGE\r\n");
+            break;
+
+        case BMS_CHARGE:
+            cli_print("CHARGE\r\n");
+            break;
+
+        case BMS_BALANCING:
+            cli_print("BALANCING\r\n");
+            break;
+
+        case BMS_ERROR:
+            cli_print("ERROR\r\n");
+            break;
+
+        default:
+            cli_print("UNKNOWN\r\n");
+            break;
+    }
+
+    /* CURRENT */
+
+    snprintf(buffer,sizeof(buffer),
+             "Battery current: %ld mA\r\n",
+             bms.battery_current);
+
+    cli_print(buffer);
+
+    cli_print("\r\nCell Voltages (mV)\r\n");
+    cli_print("---------------------\r\n");
+
+    for(uint32_t i=0;i<NUM_CELLS;i++)
+    {
+        snprintf(buffer,sizeof(buffer),
+                 "Cell %lu : %u\r\n",
+                 i,
+                 bms.cell_voltage[i]);
+
+        cli_print(buffer);
+    }
+
+    cli_print("\r\nCell Temperatures (0.1C)\r\n");
+    cli_print("--------------------------\r\n");
+
+    for(uint32_t i=0;i<NUM_CELLS;i++)
+    {
+        snprintf(buffer,sizeof(buffer),
+                 "Temp %lu : %d\r\n",
+                 i,
+                 bms.cell_temperature[i]);
+
+        cli_print(buffer);
+    }
+
+    cli_print("\r\nFlags Snapshot\r\n");
+    cli_print("---------------------\r\n");
+
+    cli_print_hex("Error flags",   bms.bms_error_flags);
+    cli_print_hex("Warning flags", bms.bms_warning_flags);
+    cli_print_hex("Status flags",  bms.bms_status_flags);
+
+    cli_print("====================================\r\n");
 }
 
 static void cmd_errors(void)
