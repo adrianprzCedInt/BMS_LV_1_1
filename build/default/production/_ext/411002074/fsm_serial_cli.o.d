@@ -2,6 +2,7 @@ build/default/production/_ext/411002074/fsm_serial_cli.o: \
  C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_serial_cli.c \
  libs/fsm/fsm.h \
  C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_serial_cli.h \
+ C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_bms_mode.h \
  app/bms/bms_flags.h ../src/config/default/definitions.h \
  ../src/config/default/peripheral/power/plib_power.h \
  ../src/config/default/device.h \
@@ -20,6 +21,7 @@ build/default/production/_ext/411002074/fsm_serial_cli.o: \
  ../src/config/default/peripheral/rcon/plib_rcon.h
 libs/fsm/fsm.h:
 C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_serial_cli.h:
+C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_bms_mode.h:
 app/bms/bms_flags.h:
 ../src/config/default/definitions.h:
 ../src/config/default/peripheral/power/plib_power.h:

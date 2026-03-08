@@ -60,6 +60,7 @@
 
 #include "fsm.h"
 #include "fsm_serial_cli.h"
+#include "fsm_bms_mode.h"
 #include "bms_flags.h"
 #include "definitions.h"
 
@@ -86,6 +87,16 @@ static void cmd_errors(void);
 static void cmd_warnings(void);
 static void cmd_status(void);
 
+/////////////////////////////////////////////////////////////////////////
+//// SPECIAL COMMANDS TO DEBUG
+/////////////////////////////////////////////////////////////////////////
+static void cmd_charge(void);
+static void cmd_discharge(void);
+static void cmd_idle(void);
+static void cmd_error(void);
+static void cmd_clear(void);
+static void cmd_mode(void);
+
 static void execute_command(const char *cmd);
 static void cli_trim(char *s);
 
@@ -95,10 +106,16 @@ static void cli_trim(char *s);
 
 static const cli_cmd_t cli_table[] =
 {
-    {"help",   cmd_help},
-    {"err",    cmd_errors},
-    {"warn",   cmd_warnings},
-    {"status", cmd_status}
+    { "help",      cmd_help     },
+    { "get errors",       cmd_errors   },
+    { "get warnings",      cmd_warnings },
+    { "get status",    cmd_status   },
+    { "set mode idle",      cmd_idle     },
+    { "set mode discharge", cmd_discharge},
+    { "set mode charge",    cmd_charge   },
+    { "set mode error",     cmd_error    },
+    { "clear errors",     cmd_clear    },
+    { "mode",      cmd_mode     }
 };
 
 #define CLI_CMD_COUNT (sizeof(cli_table)/sizeof(cli_cmd_t))
@@ -154,11 +171,31 @@ static void cli_flush_uart(void)
 
 static void cmd_help(void)
 {
-    cli_print("Commands:\r\n");
-    cli_print("->help\r\n");
-    cli_print("->err\r\n");
-    cli_print("->warn\r\n");
-    cli_print("->status\r\n");
+    cli_print("\r\n");
+    cli_print("=========================================\r\n");
+    cli_print("      BMS LV DEBUG COMMAND INTERFACE     \r\n");
+    cli_print("=========================================\r\n");
+
+    cli_print("\r\nGET COMMANDS\r\n");
+    cli_print("-----------------------------------------\r\n");
+    cli_print("  get errors        -> Show error flags\r\n");
+    cli_print("  get warnings      -> Show warning flags\r\n");
+    cli_print("  get status        -> Show status flags\r\n");
+    cli_print("  mode              -> Show current BMS mode\r\n");
+
+    cli_print("\r\nSET COMMANDS\r\n");
+    cli_print("-----------------------------------------\r\n");
+    cli_print("  set mode idle       -> Set BMS to IDLE\r\n");
+    cli_print("  set mode charge     -> Set BMS to CHARGE\r\n");
+    cli_print("  set mode discharge  -> Set BMS to DISCHARGE\r\n");
+    cli_print("  set mode error      -> Force ERROR state\r\n");
+
+    cli_print("\r\nSYSTEM COMMANDS\r\n");
+    cli_print("-----------------------------------------\r\n");
+    cli_print("  clear errors      -> Clear error flags\r\n");
+    cli_print("  help              -> Show this menu\r\n");
+
+    cli_print("\r\n");
 }
 
 static void cmd_errors(void)
@@ -176,8 +213,68 @@ static void cmd_status(void)
     cli_print_hex("Status flags", bms_status_flags);
 }
 
+static void cmd_idle(void)
+{
+    BMS_SET_IDLE();
+    cli_print("Idle mode\r\n");
+}
+static void cmd_discharge(void)
+{
+    BMS_SET_DISCHARGING();
+    cli_print("Discharge requested\r\n");
+}
+
+static void cmd_charge(void)
+{
+    BMS_SET_CHARGING();
+    cli_print("Charge requested\r\n");
+}
+
+static void cmd_error(void)
+{
+    bms_error_flags |= (1 << 0);
+    cli_print("Error triggered\r\n");
+}
+
+static void cmd_clear(void)
+{
+    BMS_CLEAR_ALL_FLAGS(bms_error_flags);
+    cli_print("Errors cleared\r\n");
+}
+
+static void cmd_mode(void)
+{
+    cli_print("\r\nBMS MODE\r\n");
+    cli_print("---------------------\r\n");
+
+    switch(bms_mode_get_state())
+    {
+        case BMS_IDLE:
+            cli_print("State : IDLE\r\n");
+            break;
+        
+        case BMS_DISCHARGE:
+            cli_print("State : DISCHARGE\r\n");
+            break;
+        case BMS_CHARGE:
+            cli_print("State : CHARGE\r\n");
+            break;
+        
+        //TODO
+        case BMS_BALANCING:
+            cli_print("State : BALANCING\r\n");
+            break;
+
+        case BMS_ERROR:
+            cli_print("State : ERROR\r\n");
+            break;
+    }
+
+    cli_print_hex("Status flags", bms_status_flags);
+    cli_print_hex("Error flags", bms_error_flags);
+}
 /////////////////////////////////////////////////////////////////////////
-//// JAMP ALWAYS
+//// JUMP ALWAYS
 /////////////////////////////////////////////////////////////////////////
 
 static int always_true(fsm_t *this)
@@ -188,12 +285,11 @@ static int always_true(fsm_t *this)
 /////////////////////////////////////////////////////////////////////////
 //// STRING CLEAN
 /////////////////////////////////////////////////////////////////////////
-
 static void cli_trim(char *s)
 {
     while(*s)
     {
-        if(*s == '\r' || *s == '\n' || *s == ' ')
+        if(*s == '\r' || *s == '\n')
         {
             *s = '\0';
             return;
@@ -289,9 +385,9 @@ static void process_command(fsm_t *this)
 
 fsm_trans_t serial_cli_tt[] =
 {
-    {WAIT_COMMAND, command_received, PROCESS_COMMAND, process_command},
-    {PROCESS_COMMAND, always_true, WAIT_COMMAND, NULL},
-    {-1, NULL, -1, NULL}
+    {WAIT_COMMAND,      command_received,   PROCESS_COMMAND,    process_command},
+    {PROCESS_COMMAND,   always_true,        WAIT_COMMAND,       NULL           },
+    {-1,                NULL,               -1,                 NULL           }
 };
 
 /////////////////////////////////////////////////////////////////////////
@@ -305,7 +401,16 @@ fsm_t* fsm_serial_cli_new(void)
 
     cli_flush_uart();
 
-    cli_print("\r\nBMS CLI Ready\r\nBMS> ");
+    cli_print("\r\n");
+    cli_print("============================================\r\n");
+    cli_print("   UPMRacing Low Voltage BMS Debug Console  \r\n");
+    cli_print("============================================\r\n");
+    cli_print("Firmware v1.1 | PIC32MX | FreeRTOS\r\n");
+    cli_print("Firmware initialized successfully\r\n");
+    cli_print("Diagnostic interface ready\r\n");
+    cli_print("Type 'help' to display available commands\r\n");
+    cli_print("\r\nBMS> ");
+
 
     return fsm_new(serial_cli_tt);
 }
