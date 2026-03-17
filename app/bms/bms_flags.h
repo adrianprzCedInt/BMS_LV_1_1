@@ -27,11 +27,11 @@
 
     Critical sections are used to protect shared registers from
     concurrent access between FreeRTOS tasks.
- * 
+ 
     ------------------------------------------- 
     | Situación        | Herramienta          |
     | ---------------- | -------------------- |
-    | variable pequeña | `taskENTER_CRITICAL` |
+    | variable pequeña | taskENTER_CRITICAL` |
     | driver hardware  | mutex                |
     | evento ISR       | semaphore            |
     | colas de datos   | queue                |
@@ -90,31 +90,31 @@
     /* -------------------------------------------------------------------------- */
 
     #define BMS_SET_FLAG(REG, FLAG) \
-    do {                            \
-        taskENTER_CRITICAL();       \
-        (REG) |= (FLAG);            \
-        taskEXIT_CRITICAL();        \
+    do { \
+        taskENTER_CRITICAL(); \
+        (REG) |= (FLAG); \
+        taskEXIT_CRITICAL(); \
     } while(0)
 
     #define BMS_CLEAR_FLAG(REG, FLAG) \
-    do {                              \
-        taskENTER_CRITICAL();         \
-        (REG) &= ~(FLAG);             \
-        taskEXIT_CRITICAL();          \
+    do { \
+        taskENTER_CRITICAL(); \
+        (REG) &= ~(FLAG); \
+        taskEXIT_CRITICAL(); \
     } while(0)
 
     #define BMS_TOGGLE_FLAG(REG, FLAG) \
-    do {                               \
-        taskENTER_CRITICAL();          \
-        (REG) ^= (FLAG);               \
-        taskEXIT_CRITICAL();           \
+    do { \
+        taskENTER_CRITICAL(); \
+        (REG) ^= (FLAG); \
+        taskEXIT_CRITICAL(); \
     } while(0)
 
     #define BMS_CLEAR_ALL_FLAGS(REG) \
-    do {                             \
-        taskENTER_CRITICAL();        \
-        (REG) = 0U;                  \
-        taskEXIT_CRITICAL();         \
+    do { \
+        taskENTER_CRITICAL(); \
+        (REG) = 0U; \
+        taskEXIT_CRITICAL(); \
     } while(0)
 
     #define BMS_CHECK_FLAG(REG, FLAG) (((REG) & (FLAG)) != 0U)
@@ -143,11 +143,11 @@
     /* Clears the current BMS operating state.
        Only one status flag should be active at any time. */
 
-    #define BMS_CLEAR_STATUS()                  \
-    do {                                        \
-        taskENTER_CRITICAL();                   \
-        bms_status_flags = 0U;                  \
-        taskEXIT_CRITICAL();                    \
+    #define BMS_CLEAR_STATUS() \
+    do { \
+        taskENTER_CRITICAL(); \
+        bms_status_flags = 0U; \
+        taskEXIT_CRITICAL(); \
     } while(0)
 
     /* Status check macros */

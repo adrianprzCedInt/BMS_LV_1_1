@@ -57,6 +57,7 @@
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_error_leds.h</itemPath>
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_serial_cli.h</itemPath>
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_bms_mode.h</itemPath>
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_can_tx_comm.h</itemPath>
       </logicalFolder>
       <logicalFolder name="f1" displayName="fsm_lib" projectFiles="true">
         <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/libs/fsm/fsm.c</itemPath>
@@ -109,6 +110,7 @@
           <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_error_leds.c</itemPath>
           <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_serial_cli.c</itemPath>
           <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_bms_mode.c</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_can_tx_comm.c</itemPath>
         </logicalFolder>
       </logicalFolder>
       <logicalFolder name="config" displayName="config" projectFiles="true">

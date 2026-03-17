@@ -57,6 +57,7 @@
 #include <string.h>
 #include <stdint.h>
 #include <stdio.h>
+#include <xc.h>
 
 #include "fsm.h"
 #include "fsm_serial_cli.h"
@@ -98,6 +99,7 @@ static void cmd_error(void);
 static void cmd_clear(void);
 static void cmd_mode(void);
 static void cmd_bms(void);
+static void cmd_reset(void);
 
 static void execute_command(const char *cmd);
 static void cli_trim(char *s);
@@ -118,6 +120,7 @@ static const cli_cmd_t cli_table[] =
     { "set mode charge",   cmd_charge   },
     { "set mode error",    cmd_error    },
     { "clear errors",      cmd_clear    },
+    { "bms reset",         cmd_reset    },
     { "mode",              cmd_mode     }
 };
 
@@ -156,7 +159,7 @@ static void cli_print_hex(const char *label, uint32_t value)
     char buffer[64];
 
     snprintf(buffer,sizeof(buffer),"%s: 0x%08lX\r\n",label,value);
-
+    
     cli_print(buffer);
 }
 
@@ -196,8 +199,9 @@ static void cmd_help(void)
 
     cli_print("\r\nSYSTEM COMMANDS\r\n");
     cli_print("-----------------------------------------\r\n");
-    cli_print("  clear errors      -> Clear error flags\r\n");
     cli_print("  help              -> Show this menu\r\n");
+    cli_print("  clear errors      -> Clear error flags\r\n");
+    cli_print("  bms reset              -> Software reset of the BMS\r\n");
 
     cli_print("\r\n");
 }
@@ -357,6 +361,22 @@ static void cmd_mode(void)
 
     cli_print_hex("Status flags", bms_status_flags);
     cli_print_hex("Error flags", bms_error_flags);
+}
+
+static void cmd_reset(void)
+{
+    __builtin_disable_interrupts();
+
+    SYSKEY = 0x00000000;      // asegurar bloqueo
+    SYSKEY = 0xAA996655;      // unlock sequence
+    SYSKEY = 0x556699AA;
+
+    RSWRSTSET = 1;            // activar software reset
+
+    volatile uint32_t dummy = RSWRST;
+    (void)dummy;              // lectura obligatoria
+
+    while(1);                 // esperar reset
 }
 /////////////////////////////////////////////////////////////////////////
 //// JUMP ALWAYS

@@ -14,10 +14,10 @@ Clock
 Scheduler
 -----------------------------------------------------------*/
 
-#define configTICK_RATE_HZ              (1000)
-#define configMAX_PRIORITIES            (5)
+#define configTICK_RATE_HZ              (1000) // 1 tick -> 1 ms
+#define configMAX_PRIORITIES            (5) // 0 Idle, 4 Highest
 #define configMINIMAL_STACK_SIZE        (128)
-#define configTOTAL_HEAP_SIZE           (20 * 1024)
+#define configTOTAL_HEAP_SIZE           (20 * 1024) // 20KB de Heap 128KB de PIC32MX
 #define configMAX_TASK_NAME_LEN         (16)
 
 #define configUSE_PREEMPTION            1

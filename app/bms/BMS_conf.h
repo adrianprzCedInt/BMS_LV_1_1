@@ -1,17 +1,42 @@
 /* ************************************************************************** */
-/** Descriptive File Name
+/** BMS Configuration and Data Structure Definition
 
   @Company
-    Company Name
-
-  @File Name
-    filename.h
+    UPMRacing - Adrián Pérez López - LV
 
   @Summary
-    Brief description of the file.
+    Global configuration parameters and shared data structure for the
+    Battery Management System (BMS).
 
   @Description
-    Describe the purpose of this file.
+    This file defines the fundamental configuration parameters and the main
+    data structure used by the Battery Management System firmware.
+
+    The file provides:
+
+        - Global configuration constants for the battery pack
+        - The main BMS data structure used to store runtime measurements
+        - A globally accessible instance of the BMS data
+
+    The main structure `bms_data_t` aggregates all relevant battery information
+    required by different firmware modules, including:
+
+        ? Individual cell voltages
+        ? Individual cell temperatures
+        ? Pack current measurement
+        ? Current BMS operating mode
+        ? Error flags
+        ? Warning flags
+        ? System status flags
+
+    The global variable `bms` is declared as `volatile` to ensure that the
+    compiler does not optimize accesses to this structure, since it may be
+    modified by multiple RTOS tasks or interrupt service routines.
+
+    This centralized data model allows different tasks to access the battery 
+    state without tight coupling between modules, improving code modularity 
+    and maintainability.
+
  */
 /* ************************************************************************** */
 
