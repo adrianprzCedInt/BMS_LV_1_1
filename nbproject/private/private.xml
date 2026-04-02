@@ -3,10 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/bms_flags.h</file>
-            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_can_tx_comm.h</file>
-            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_can_tx_comm.c</file>
-            <file>file:/C:/Users/adria/MPLABXProjects/src/config/default/peripheral/can/plib_can1.h</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/command_list.h</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/prueba.c</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_error_leds.c</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/prueba.h</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/src/main.c</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/BMS_LV.X/data.h</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/src/config/default/peripheral/spi/spi_master/plib_spi2_master.h</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/src/config/default/definitions.h</file>
+            <file>file:/C:/Users/adria/MPLABXProjects/src/config/default/peripheral/gpio/plib_gpio.h</file>
         </group>
     </open-files>
 </project-private>

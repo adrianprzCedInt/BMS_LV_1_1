@@ -1,4 +1,5 @@
-build/default/production/_ext/1360937237/main.o: ../src/main.c \
+build/default/production/_ext/1399831913/prueba.o: \
+ C:/Users/adria/MPLABXProjects/BMS_LV.X/prueba.c freeRTOS/../prueba.h \
  ../src/config/default/definitions.h \
  ../src/config/default/peripheral/power/plib_power.h \
  ../src/config/default/device.h \
@@ -14,15 +15,14 @@ build/default/production/_ext/1360937237/main.o: ../src/main.c \
  ../src/config/default/peripheral/adc/plib_adc.h \
  ../src/config/default/peripheral/spi/spi_master/plib_spi2_master.h \
  ../src/config/default/peripheral/spi/spi_master/plib_spi_master_common.h \
- ../src/config/default/peripheral/rcon/plib_rcon.h libs/fsm/fsm.h \
- app/fsm/fsm_serial_cli.h app/fsm/fsm_error_leds.h app/fsm/fsm_bms_mode.h \
- freeRTOS/../prueba.h app/bms/BMS_conf.h app/bms/bms_flags.h \
+ ../src/config/default/peripheral/rcon/plib_rcon.h \
  freeRTOS/include/FreeRTOS.h freeRTOS/include/FreeRTOSConfig.h \
  freeRTOS/include/projdefs.h freeRTOS/include/portable.h \
  freeRTOS/include/deprecated_definitions.h \
  freeRTOS/portable/MPLAB/PIC32MX/portmacro.h \
  freeRTOS/include/mpu_wrappers.h freeRTOS/include/task.h \
  freeRTOS/include/list.h
+freeRTOS/../prueba.h:
 ../src/config/default/definitions.h:
 ../src/config/default/peripheral/power/plib_power.h:
 ../src/config/default/device.h:
@@ -39,13 +39,6 @@ build/default/production/_ext/1360937237/main.o: ../src/main.c \
 ../src/config/default/peripheral/spi/spi_master/plib_spi2_master.h:
 ../src/config/default/peripheral/spi/spi_master/plib_spi_master_common.h:
 ../src/config/default/peripheral/rcon/plib_rcon.h:
-libs/fsm/fsm.h:
-app/fsm/fsm_serial_cli.h:
-app/fsm/fsm_error_leds.h:
-app/fsm/fsm_bms_mode.h:
-freeRTOS/../prueba.h:
-app/bms/BMS_conf.h:
-app/bms/bms_flags.h:
 freeRTOS/include/FreeRTOS.h:
 freeRTOS/include/FreeRTOSConfig.h:
 freeRTOS/include/projdefs.h:

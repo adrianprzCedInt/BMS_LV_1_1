@@ -35,7 +35,7 @@ data:
       - children:
         - attributes:
             id: uart1
-            value: '173'
+            value: '86'
           type: Dynamic
         type: Values
       type: Integer
@@ -50,4 +50,15 @@ data:
           type: Dynamic
         type: Values
       type: KeyValueSet
+    UART_CLOCK_FREQ:
+      attributes:
+        id: UART_CLOCK_FREQ
+      children:
+      - children:
+        - attributes:
+            id: uart1
+            value: '40000000'
+          type: Dynamic
+        type: Values
+      type: Integer
   userData: {}

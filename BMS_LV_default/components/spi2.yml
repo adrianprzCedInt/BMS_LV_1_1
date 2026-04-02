@@ -35,7 +35,7 @@ data:
       - children:
         - attributes:
             id: spi2
-            value: '79'
+            value: '39'
           type: Dynamic
         type: Values
       type: Integer

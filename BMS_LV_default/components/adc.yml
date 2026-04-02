@@ -27,5 +27,16 @@ data:
         type: ElementPosition
       type: ElementPositions
     type: ComponentGraph
-  symbols: {}
+  symbols:
+    ADC_TCLK:
+      attributes:
+        id: ADC_TCLK
+      children:
+      - children:
+        - attributes:
+            id: adc
+            value: '150.0'
+          type: Dynamic
+        type: Values
+      type: Float
   userData: {}
