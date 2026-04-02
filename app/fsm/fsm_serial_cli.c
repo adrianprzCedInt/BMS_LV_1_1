@@ -490,8 +490,8 @@ static void process_command(fsm_t *this)
 
 fsm_trans_t serial_cli_tt[] =
 {
-    {WAIT_COMMAND,      command_received,   PROCESS_COMMAND,    process_command},
-    {PROCESS_COMMAND,   always_true,        WAIT_COMMAND,       NULL           },
+    {WAIT_COMMAND,      command_received,   WAIT_COMMAND,    process_command},
+//    {PROCESS_COMMAND,   always_true,        WAIT_COMMAND,       NULL           },
     {-1,                NULL,               -1,                 NULL           }
 };
 
