@@ -384,7 +384,7 @@ static void cmd_set_cantimeout(void)
 
 static void cmd_set_adc_fail(void)
 {
-    BMS_SET_ERROR_FLAG(4);
+    BMS_SET_ERROR_FLAG(5);
     cli_print("ADC fail error set\r\n");
 }
 
@@ -553,8 +553,8 @@ static void process_command(fsm_t *this)
 
 fsm_trans_t serial_cli_tt[] =
 {
-    {WAIT_COMMAND,      command_received,   WAIT_COMMAND,    process_command},
-//    {PROCESS_COMMAND,   always_true,        WAIT_COMMAND,       NULL           },
+    {WAIT_COMMAND,      command_received,   PROCESS_COMMAND,    process_command},
+    {PROCESS_COMMAND,   always_true,        WAIT_COMMAND,       NULL           },
     {-1,                NULL,               -1,                 NULL           }
 };
 
@@ -569,10 +569,10 @@ fsm_t* fsm_serial_cli_new(void)
     cli_flush_uart();
 
     cli_print("\r\n");
-    cli_print("============================================\r\n");
-    cli_print("   UPMRacing Low Voltage BMS Debug Console  \r\n");
-    cli_print("============================================\r\n");
-    cli_print("Firmware v1.1 | PIC32MX | FreeRTOS\r\n");
+    cli_print("==================================================\r\n");
+    cli_print("      UPMRacing Low Voltage BMS Debug Console     \r\n");
+    cli_print("==================================================\r\n");
+    cli_print("Firmware v1.1 | PIC32MX | FreeRTOS KERNEL GIT#1372\r\n");
     cli_print("Firmware initialized successfully\r\n");
     cli_print("Diagnostic interface ready\r\n");
     cli_print("Type 'help' to display available commands\r\n");
