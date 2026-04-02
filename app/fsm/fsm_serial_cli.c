@@ -96,7 +96,15 @@ static void cmd_charge(void);
 static void cmd_discharge(void);
 static void cmd_idle(void);
 static void cmd_error(void);
+
+static void cmd_set_overvol(void);
+static void cmd_set_undervol(void);
+static void cmd_set_overtemp(void);
+static void cmd_set_undertemp(void);
+static void cmd_set_cantimeout(void);
+static void cmd_set_adc_fail(void);
 static void cmd_clear(void);
+
 static void cmd_mode(void);
 static void cmd_bms(void);
 static void cmd_reset(void);
@@ -110,19 +118,29 @@ static void cli_trim(char *s);
 
 static const cli_cmd_t cli_table[] =
 {
-    { "help",              cmd_help     },
-    { "get errors",        cmd_errors   },
-    { "get warnings",      cmd_warnings },
-    { "get status",        cmd_status   },
-    { "get bms",           cmd_bms      },
-    { "set mode idle",     cmd_idle     },
-    { "set mode discharge",cmd_discharge},
-    { "set mode charge",   cmd_charge   },
-    { "set mode error",    cmd_error    },
-    { "clear errors",      cmd_clear    },
-    { "bms reset",         cmd_reset    },
-    { "mode",              cmd_mode     }
+    { "help",                   cmd_help            },
+    { "get errors",             cmd_errors          },
+    { "get warnings",           cmd_warnings        },
+    { "get status",             cmd_status          },
+    { "get mode",               cmd_mode            },
+    { "get bms",                cmd_bms             },
+    
+    { "set mode idle",          cmd_idle            },
+    { "set mode discharge",     cmd_discharge       },
+    { "set mode charge",        cmd_charge          },
+    { "set mode error",         cmd_error           },
+
+    { "set error overvoltage",  cmd_set_overvol     },
+    { "set error undervoltage", cmd_set_undervol    },
+    { "set error overtemp",     cmd_set_overtemp    },
+    { "set error undertemp",    cmd_set_undertemp   },
+    { "set error can timeout",  cmd_set_cantimeout  },
+    { "set error adc fail",     cmd_set_adc_fail    },
+    { "clear errors",           cmd_clear           },
+    
+    { "bms reset",              cmd_reset           }
 };
+
 
 #define CLI_CMD_COUNT (sizeof(cli_table)/sizeof(cli_cmd_t))
 
@@ -188,20 +206,28 @@ static void cmd_help(void)
     cli_print("  get errors        -> Show error flags\r\n");
     cli_print("  get warnings      -> Show warning flags\r\n");
     cli_print("  get status        -> Show status flags\r\n");
-    cli_print("  mode              -> Show current BMS mode\r\n");
+    cli_print("  get mode          -> Show current BMS mode\r\n");
 
     cli_print("\r\nSET COMMANDS\r\n");
     cli_print("-----------------------------------------\r\n");
-    cli_print("  set mode idle       -> Set BMS to IDLE\r\n");
-    cli_print("  set mode charge     -> Set BMS to CHARGE\r\n");
-    cli_print("  set mode discharge  -> Set BMS to DISCHARGE\r\n");
-    cli_print("  set mode error      -> Force ERROR state\r\n");
+    cli_print("  set mode idle               -> Set BMS to IDLE\r\n");
+    cli_print("  set mode charge             -> Set BMS to CHARGE\r\n");
+    cli_print("  set mode discharge          -> Set BMS to DISCHARGE\r\n");
+    cli_print("  set mode error              -> Force ERROR state\r\n");
 
+    cli_print("  set error overvoltage       -> Force overvoltage ERROR\r\n");
+    cli_print("  set error undervoltage      -> Force undervoltage ERROR\r\n");
+    cli_print("  set error overtemp          -> Force overtemp ERROR\r\n");
+    cli_print("  set error undertemp         -> Force undertemp ERROR\r\n");
+    cli_print("  set error can timeout       -> Force can timeout ERROR\r\n");
+    cli_print("  set error adc fail          -> Force adc fail ERROR\r\n");
+
+    
     cli_print("\r\nSYSTEM COMMANDS\r\n");
     cli_print("-----------------------------------------\r\n");
     cli_print("  help              -> Show this menu\r\n");
     cli_print("  clear errors      -> Clear error flags\r\n");
-    cli_print("  bms reset              -> Software reset of the BMS\r\n");
+    cli_print("  bms reset         -> Software reset of the BMS\r\n");
 
     cli_print("\r\n");
 }
@@ -323,6 +349,43 @@ static void cmd_error(void)
 {
     bms_error_flags |= (1 << 0);
     cli_print("Error triggered\r\n");
+}
+
+/*--------- Error flags testing ---------*/
+
+static void cmd_set_overvol(void)
+{
+    BMS_SET_ERROR_FLAG(0);
+    cli_print("Overvoltage error set\r\n");
+}
+static void cmd_set_undervol(void)
+{
+    BMS_SET_ERROR_FLAG(1);
+    cli_print("Endervoltage error set\r\n");
+}
+
+static void cmd_set_overtemp(void)
+{
+    BMS_SET_ERROR_FLAG(2);
+    cli_print("Overtemp error set\r\n");
+}
+
+static void cmd_set_undertemp(void)
+{
+    BMS_SET_ERROR_FLAG(3);
+    cli_print("Undertemp error set\r\n");
+}
+
+static void cmd_set_cantimeout(void)
+{
+    BMS_SET_ERROR_FLAG(4);
+    cli_print("Can timeout error set\r\n");
+}
+
+static void cmd_set_adc_fail(void)
+{
+    BMS_SET_ERROR_FLAG(4);
+    cli_print("ADC fail error set\r\n");
 }
 
 static void cmd_clear(void)

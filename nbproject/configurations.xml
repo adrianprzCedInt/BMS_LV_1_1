@@ -444,6 +444,22 @@
         <C32Global>
         </C32Global>
       </item>
+      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/command_list.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/data.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/prueba.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/prueba.h"
+            ex="true"
+            overriding="false">
+      </item>
       <PK5Tool>
         <property key="ADC 1" value="true"/>
         <property key="AutoSelectMemRanges" value="auto"/>
