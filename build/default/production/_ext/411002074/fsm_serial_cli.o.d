@@ -3,7 +3,7 @@ build/default/production/_ext/411002074/fsm_serial_cli.o: \
  libs/fsm/fsm.h \
  C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_serial_cli.h \
  C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_bms_mode.h \
- app/bms/bms_flags.h freeRTOS/include/FreeRTOS.h \
+ app/bms/header/bms_flags.h freeRTOS/include/FreeRTOS.h \
  freeRTOS/include/FreeRTOSConfig.h freeRTOS/include/projdefs.h \
  freeRTOS/include/portable.h freeRTOS/include/deprecated_definitions.h \
  freeRTOS/portable/MPLAB/PIC32MX/portmacro.h \
@@ -23,12 +23,13 @@ build/default/production/_ext/411002074/fsm_serial_cli.o: \
  ../src/config/default/peripheral/adc/plib_adc.h \
  ../src/config/default/peripheral/spi/spi_master/plib_spi2_master.h \
  ../src/config/default/peripheral/spi/spi_master/plib_spi_master_common.h \
- ../src/config/default/peripheral/rcon/plib_rcon.h app/bms/BMS_conf.h \
- app/fsm/fsm_bms_mode.h app/bms/bms_flags.h
+ ../src/config/default/peripheral/rcon/plib_rcon.h \
+ app/bms/header/BMS_conf.h app/fsm/fsm_bms_mode.h \
+ app/bms/header/bms_flags.h
 libs/fsm/fsm.h:
 C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_serial_cli.h:
 C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_bms_mode.h:
-app/bms/bms_flags.h:
+app/bms/header/bms_flags.h:
 freeRTOS/include/FreeRTOS.h:
 freeRTOS/include/FreeRTOSConfig.h:
 freeRTOS/include/projdefs.h:
@@ -54,6 +55,6 @@ freeRTOS/include/list.h:
 ../src/config/default/peripheral/spi/spi_master/plib_spi2_master.h:
 ../src/config/default/peripheral/spi/spi_master/plib_spi_master_common.h:
 ../src/config/default/peripheral/rcon/plib_rcon.h:
-app/bms/BMS_conf.h:
+app/bms/header/BMS_conf.h:
 app/fsm/fsm_bms_mode.h:
-app/bms/bms_flags.h:
+app/bms/header/bms_flags.h:

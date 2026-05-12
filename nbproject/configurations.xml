@@ -6,12 +6,15 @@
                    projectFiles="true">
       <logicalFolder name="f2" displayName="bms" projectFiles="true">
         <logicalFolder name="f1" displayName="ADBMS6830B" projectFiles="true">
-          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/command_list.h</itemPath>
-          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/data.h</itemPath>
-          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/prueba.h</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/command_list.h</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/data.h</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/prueba.h</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/prueba2.h</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/prueba3.h</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/prueba_claude.h</itemPath>
         </logicalFolder>
-        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/bms_flags.h</itemPath>
-        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/BMS_conf.h</itemPath>
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/BMS_conf.h</itemPath>
+        <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/bms_flags.h</itemPath>
       </logicalFolder>
       <logicalFolder name="config" displayName="config" projectFiles="true">
         <logicalFolder name="default" displayName="default" projectFiles="true">
@@ -109,8 +112,11 @@
                    projectFiles="true">
       <logicalFolder name="f4" displayName="app" projectFiles="true">
         <logicalFolder name="f2" displayName="bms" projectFiles="true">
-          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/bms_flags.c</itemPath>
-          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/prueba.c</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/src/bms_flags.c</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/src/prueba.c</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/src/prueba2.c</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/src/prueba3.c</itemPath>
+          <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/src/prueba_claude.c</itemPath>
         </logicalFolder>
         <logicalFolder name="f1" displayName="fsm" projectFiles="true">
           <itemPath>C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_error_leds.c</itemPath>
@@ -236,7 +242,6 @@
       <C32>
         <property key="additional-warnings" value="false"/>
         <property key="addresss-attribute-use" value="false"/>
-        <property key="appendMe" value=""/>
         <property key="cast-align" value="false"/>
         <property key="code-model" value="default"/>
         <property key="const-model" value="default"/>
@@ -314,7 +319,6 @@
         <property key="additional-options-use-response-files" value="false"/>
         <property key="additional-options-write-sla" value="false"/>
         <property key="allocate-dinit" value="false"/>
-        <property key="appendMe" value=""/>
         <property key="code-dinit" value="false"/>
         <property key="ebase-addr" value=""/>
         <property key="enable-check-sections" value="false"/>
@@ -360,7 +364,6 @@
       <C32CPP>
         <property key="additional-warnings" value="false"/>
         <property key="addresss-attribute-use" value="false"/>
-        <property key="appendMe" value=""/>
         <property key="check-new" value="false"/>
         <property key="eh-specs" value="true"/>
         <property key="enable-app-io" value="false"/>
@@ -390,7 +393,7 @@
       <C32Global>
         <property key="combine-sourcefiles" value="false"/>
         <property key="common-include-directories"
-                  value="freeRTOS;freeRTOS\include;freeRTOS\portable\MPLAB\PIC32MX;libs\fsm;app\fsm;app\bms"/>
+                  value="freeRTOS;freeRTOS\include;freeRTOS\portable\MPLAB\PIC32MX;libs\fsm;app\fsm;app\bms\header;app\bms\src;app\bms"/>
         <property key="common-macros" value=""/>
         <property key="dual-boot-partition" value="0"/>
         <property key="generic-16-bit" value="false"/>
@@ -408,6 +411,34 @@
         <property key="stack-smashing" value=""/>
         <property key="wpo-lto" value="false"/>
       </C32Global>
+      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/data.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/prueba.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/prueba2.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/header/prueba3.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/src/prueba.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/src/prueba2.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/app/bms/src/prueba3.c"
+            ex="true"
+            overriding="false">
+      </item>
       <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/app/fsm/fsm_can_tx_comm.c"
             ex="true"
             overriding="false">
@@ -443,22 +474,6 @@
         </C32CPP>
         <C32Global>
         </C32Global>
-      </item>
-      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/command_list.h"
-            ex="true"
-            overriding="false">
-      </item>
-      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/data.h"
-            ex="true"
-            overriding="false">
-      </item>
-      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/prueba.c"
-            ex="true"
-            overriding="false">
-      </item>
-      <item path="C:/Users/adria/MPLABXProjects/BMS_LV.X/prueba.h"
-            ex="true"
-            overriding="false">
       </item>
       <PK5Tool>
         <property key="ADC 1" value="true"/>
@@ -538,8 +553,6 @@
         <property key="memories.programmemory" value="true"/>
         <property key="memories.programmemory.ranges" value="1d000000-1d07ffff"/>
         <property key="poweroptions.powerenable" value="true"/>
-        <property key="programmerToGoFilePath"
-                  value="C:/Users/adria/MPLABXProjects/BMS_LV.X/debug/default/BMS_LV_ptg"/>
         <property key="programmerToGoImageName" value="BMS_LV_ptg"/>
         <property key="programoptions.donoteraseauxmem" value="false"/>
         <property key="programoptions.eraseb4program" value="true"/>

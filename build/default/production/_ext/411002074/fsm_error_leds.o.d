@@ -16,7 +16,7 @@ build/default/production/_ext/411002074/fsm_error_leds.o: \
  ../src/config/default/peripheral/spi/spi_master/plib_spi2_master.h \
  ../src/config/default/peripheral/spi/spi_master/plib_spi_master_common.h \
  ../src/config/default/peripheral/rcon/plib_rcon.h libs/fsm/fsm.h \
- app/bms/bms_flags.h freeRTOS/include/FreeRTOS.h \
+ app/bms/header/bms_flags.h freeRTOS/include/FreeRTOS.h \
  freeRTOS/include/FreeRTOSConfig.h freeRTOS/include/projdefs.h \
  freeRTOS/include/portable.h freeRTOS/include/deprecated_definitions.h \
  freeRTOS/portable/MPLAB/PIC32MX/portmacro.h \
@@ -40,7 +40,7 @@ build/default/production/_ext/411002074/fsm_error_leds.o: \
 ../src/config/default/peripheral/spi/spi_master/plib_spi_master_common.h:
 ../src/config/default/peripheral/rcon/plib_rcon.h:
 libs/fsm/fsm.h:
-app/bms/bms_flags.h:
+app/bms/header/bms_flags.h:
 freeRTOS/include/FreeRTOS.h:
 freeRTOS/include/FreeRTOSConfig.h:
 freeRTOS/include/projdefs.h:
